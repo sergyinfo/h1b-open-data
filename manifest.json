@@ -1,0 +1,125 @@
+{
+  "name": "h1b-lca-open-data",
+  "generated_at": "2026-07-29",
+  "license": "CC BY 4.0",
+  "source": "US DOL OFLC LCA disclosure data",
+  "site": "https://h1b.report",
+  "min_n": 25,
+  "wage_band_usd": [
+    20000,
+    1000000
+  ],
+"wage_rounding_usd": 100,
+  "files": [
+    {
+      "file": "national_by_year.csv",
+      "rows": 17,
+      "columns": [
+        "fiscal_year",
+        "total_filings",
+        "certified_pct",
+        "median_wage"
+      ]
+    },
+    {
+      "file": "occupation_by_year.csv",
+      "rows": 4477,
+      "columns": [
+        "soc_code",
+        "soc_title",
+        "fiscal_year",
+        "filings",
+        "wage_p25",
+        "wage_median",
+        "wage_p75"
+      ]
+    },
+    {
+      "file": "occupation_by_state.csv",
+      "rows": 6578,
+      "columns": [
+        "soc_code",
+        "soc_title",
+        "state",
+        "filings",
+        "wage_median"
+      ]
+    },
+    {
+      "file": "occupation_wage_by_level.csv",
+      "rows": 1132,
+      "columns": [
+        "soc_code",
+        "soc_title",
+        "pw_level",
+        "n",
+        "wage_p25",
+        "wage_median",
+        "wage_p75"
+      ]
+    },
+    {
+      "file": "state_by_year.csv",
+      "rows": 931,
+      "columns": [
+        "state",
+        "fiscal_year",
+        "filings",
+        "wage_median"
+      ]
+    },
+    {
+      "file": "sector_by_year.csv",
+      "rows": 425,
+      "columns": [
+        "naics2",
+        "sector_name",
+        "fiscal_year",
+        "filings",
+        "wage_median"
+      ]
+    },
+    {
+      "file": "employers_summary.csv",
+      "rows": 18927,
+      "columns": [
+        "employer_slug",
+        "employer_name",
+        "employer_state",
+        "total_filings",
+        "first_fy",
+        "last_fy",
+        "certified_pct",
+        "cert_withdrawn_pct",
+        "withdrawn_pct",
+        "denied_pct",
+        "median_wage",
+        "top_soc_code",
+        "top_soc_title"
+      ]
+    },
+    {
+      "file": "sample_occupation_by_state.csv",
+      "rows": 100,
+      "columns": [
+        "soc_code",
+        "soc_title",
+        "state",
+        "filings",
+        "wage_median"
+      ],
+      "note": "Preview: first 100 rows of occupation_by_state.csv (already suppressed at source)."
+    },
+    {
+      "file": "soc_coverage_by_year.csv",
+      "rows": 17,
+      "columns": [
+        "fiscal_year",
+        "total_filings",
+        "filings_with_soc_code",
+        "soc_coverage_pct"
+      ],
+      "note": "Per-year SOC completeness diagnostic; whole-year aggregates, MIN_N not applicable."
+    }
+  ]
+}

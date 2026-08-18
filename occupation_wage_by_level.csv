@@ -1,0 +1,1133 @@
+soc_code,soc_title,pw_level,n,wage_p25,wage_median,wage_p75
+11-1011,Chief Executives,I,1071,76200,105600,132000
+11-1011,Chief Executives,II,1528,110000,145000,195000
+11-1011,Chief Executives,III,1096,140000,185000,240000
+11-1011,Chief Executives,IV,1882,184300,249600,310000
+11-1021,General and Operations Managers,I,3764,66600,87200,112300
+11-1021,General and Operations Managers,II,5210,100100,130700,161400
+11-1021,General and Operations Managers,III,5709,118500,145900,173000
+11-1021,General and Operations Managers,IV,5358,141800,167800,200000
+11-2011,Advertising and Promotions Managers,I,155,54100,70900,92000
+11-2011,Advertising and Promotions Managers,II,153,91800,108200,125000
+11-2011,Advertising and Promotions Managers,III,131,105000,131100,167500
+11-2011,Advertising and Promotions Managers,IV,101,132000,181900,232500
+11-2021,Marketing Managers,I,2043,80000,100000,123500
+11-2021,Marketing Managers,II,3548,111000,138000,165000
+11-2021,Marketing Managers,III,2890,125400,158000,195000
+11-2021,Marketing Managers,IV,3757,141000,180000,230000
+11-2022,Sales Managers,I,1023,70600,88000,110600
+11-2022,Sales Managers,II,1745,102500,121600,153800
+11-2022,Sales Managers,III,1308,123500,150000,185000
+11-2022,Sales Managers,IV,1558,148900,180400,221100
+11-2032,Public Relations Managers,I,167,65000,80700,103600
+11-2032,Public Relations Managers,II,161,70000,90000,120000
+11-2032,Public Relations Managers,III,121,82600,109800,143000
+11-2032,Public Relations Managers,IV,152,110000,139900,185800
+11-2033,Fundraising Managers,I,49,51000,60800,84000
+11-2033,Fundraising Managers,II,43,76100,93600,126100
+11-3012,Administrative Services Managers,I,118,59200,72700,90000
+11-3012,Administrative Services Managers,II,144,77700,98000,119700
+11-3012,Administrative Services Managers,III,83,107000,120000,149300
+11-3012,Administrative Services Managers,IV,86,131200,160000,177000
+11-3021,Computer and Information Systems Managers,I,4391,106500,130000,154900
+11-3021,Computer and Information Systems Managers,II,21032,130000,158800,188100
+11-3021,Computer and Information Systems Managers,III,28949,137000,165000,197000
+11-3021,Computer and Information Systems Managers,IV,33208,147300,180000,220300
+11-3031,Financial Managers,I,1456,83100,100000,125900
+11-3031,Financial Managers,II,2587,110000,135000,165000
+11-3031,Financial Managers,III,2266,130000,159100,192300
+11-3031,Financial Managers,IV,4281,150000,190000,250000
+11-3051,Industrial Production Managers,I,735,66500,78300,95000
+11-3051,Industrial Production Managers,II,1340,89400,106400,130000
+11-3051,Industrial Production Managers,III,970,105000,126800,155000
+11-3051,Industrial Production Managers,IV,1197,124600,147400,177700
+11-3061,Purchasing Managers,I,380,73900,95000,114000
+11-3061,Purchasing Managers,II,596,95500,120200,145600
+11-3061,Purchasing Managers,III,353,110100,131300,158200
+11-3061,Purchasing Managers,IV,433,112900,140000,176500
+11-3071,Logistics Managers,I,939,62100,75100,90000
+11-3071,Logistics Managers,II,2512,89000,110000,130400
+11-3071,Logistics Managers,III,2498,111000,132600,146000
+11-3071,Logistics Managers,IV,1755,122000,145200,168900
+11-3111,Compensation and Benefits Managers,II,25,103000,121000,138000
+11-3111,Compensation and Benefits Managers,IV,30,147000,162500,198700
+11-3121,Human Resources Managers,I,427,74700,91400,114400
+11-3121,Human Resources Managers,II,478,85200,110200,138300
+11-3121,Human Resources Managers,III,264,94800,130800,170000
+11-3121,Human Resources Managers,IV,398,129000,167600,209400
+11-3131,Training and Development Managers,II,31,72600,97200,109200
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",I,41,48500,65000,72800
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",II,52,61700,79000,96100
+11-9013,"Farmers, Ranchers, and Other Agricultural Managers",IV,27,92600,120000,144000
+11-9021,Construction Managers,I,1987,65100,75000,85800
+11-9021,Construction Managers,II,1696,82500,95000,110000
+11-9021,Construction Managers,III,698,102000,120000,149000
+11-9021,Construction Managers,IV,613,130000,165000,200000
+11-9031,"Education and Childcare Administrators, Preschool and Daycare",I,81,40900,42900,48200
+11-9032,"Education Administrators, Kindergarten through Secondary",IV,29,148300,173100,240000
+11-9033,"Education Administrators, Postsecondary",I,338,56700,65800,75200
+11-9033,"Education Administrators, Postsecondary",II,281,66000,82300,103000
+11-9033,"Education Administrators, Postsecondary",III,115,89800,110000,144700
+11-9033,"Education Administrators, Postsecondary",IV,179,122200,177000,230000
+11-9041,Architectural and Engineering Managers,I,997,86400,118000,137500
+11-9041,Architectural and Engineering Managers,II,3082,127100,160700,193700
+11-9041,Architectural and Engineering Managers,III,2956,128700,169400,217000
+11-9041,Architectural and Engineering Managers,IV,3308,150000,185800,230000
+11-9051,Food Service Managers,I,188,50000,63800,76100
+11-9051,Food Service Managers,II,108,62000,70500,80000
+11-9051,Food Service Managers,III,68,68300,80300,112300
+11-9051,Food Service Managers,IV,50,82200,117200,155100
+11-9072,"Entertainment and Recreation Managers, Except Gambling",I,40,40900,50400,60700
+11-9072,"Entertainment and Recreation Managers, Except Gambling",II,40,44000,52300,83700
+11-9081,Lodging Managers,I,65,50000,60000,70500
+11-9081,Lodging Managers,II,72,57900,67500,80400
+11-9081,Lodging Managers,III,32,64700,79000,98500
+11-9081,Lodging Managers,IV,31,95500,120000,194000
+11-9111,Medical and Health Services Managers,I,1236,65000,77600,96000
+11-9111,Medical and Health Services Managers,II,1165,85500,108800,142700
+11-9111,Medical and Health Services Managers,III,674,108600,145000,201500
+11-9111,Medical and Health Services Managers,IV,888,135500,183600,249900
+11-9121,Clinical Research Coordinators,I,916,53700,62400,74000
+11-9121,Clinical Research Coordinators,II,590,65000,76700,100000
+11-9121,Clinical Research Coordinators,III,292,84900,114600,146400
+11-9121,Clinical Research Coordinators,IV,327,125000,154100,186300
+11-9141,"Property, Real Estate, and Community Association Managers",I,117,45900,60000,73100
+11-9141,"Property, Real Estate, and Community Association Managers",II,135,65000,82500,100000
+11-9141,"Property, Real Estate, and Community Association Managers",III,58,80000,113600,122200
+11-9141,"Property, Real Estate, and Community Association Managers",IV,52,116200,142700,200000
+11-9151,Social and Community Service Managers,I,264,52000,64200,85300
+11-9151,Social and Community Service Managers,II,296,70700,90000,140000
+11-9151,Social and Community Service Managers,III,181,100000,137400,188000
+11-9151,Social and Community Service Managers,IV,181,116000,151400,195000
+11-9161,Emergency Management Directors,I,26,63900,72500,86200
+11-9161,Emergency Management Directors,II,32,87000,108700,130300
+11-9161,Emergency Management Directors,III,35,92500,115000,194800
+11-9161,Emergency Management Directors,IV,48,106400,166000,232800
+11-9199,Compliance Managers,I,435,67000,86000,110000
+11-9199,Compliance Managers,II,1066,92700,115700,138900
+11-9199,Compliance Managers,III,660,112300,133900,156800
+11-9199,Compliance Managers,IV,837,118300,144800,181500
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",I,66,51400,64700,74400
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",II,106,72300,100000,130000
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",III,59,113800,140300,180500
+13-1011,"Agents and Business Managers of Artists, Performers, and Athletes",IV,59,137400,169400,195500
+13-1022,"Wholesale and Retail Buyers, Except Farm Products",I,92,55000,64700,72000
+13-1022,"Wholesale and Retail Buyers, Except Farm Products",II,87,60000,69700,79100
+13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",I,343,58400,70000,89800
+13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",II,551,70000,84000,96000
+13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",III,171,83000,99600,120000
+13-1023,"Purchasing Agents, Except Wholesale, Retail, and Farm Products",IV,122,90000,105000,133000
+13-1031,"Claims Adjusters, Examiners, and Investigators",I,62,60300,73000,86500
+13-1031,"Claims Adjusters, Examiners, and Investigators",II,65,70200,87600,103500
+13-1031,"Claims Adjusters, Examiners, and Investigators",III,26,87500,122000,181100
+13-1031,"Claims Adjusters, Examiners, and Investigators",IV,25,115000,126800,155000
+13-1041,Compliance Officers,I,1131,56000,62800,75000
+13-1041,Compliance Officers,II,2424,70000,78000,91900
+13-1041,Compliance Officers,III,1278,86000,98600,120000
+13-1041,Compliance Officers,IV,1171,107100,125000,159900
+13-1051,Cost Estimators,I,1408,57000,68700,81400
+13-1051,Cost Estimators,II,1979,70000,81800,98000
+13-1051,Cost Estimators,III,1002,88000,104000,122100
+13-1051,Cost Estimators,IV,1099,105000,125000,147500
+13-1071,Human Resources Specialists,I,1316,48100,55000,65000
+13-1071,Human Resources Specialists,II,2152,62600,71500,87900
+13-1071,Human Resources Specialists,III,905,79200,95000,130000
+13-1071,Human Resources Specialists,IV,630,98000,122000,165400
+13-1081,Logisticians,I,3064,56500,65000,75000
+13-1081,Logisticians,II,4967,72700,86600,106200
+13-1081,Logisticians,III,2286,91500,113600,139300
+13-1081,Logisticians,IV,1567,110000,135000,163500
+13-1082,Project Management Specialists,I,975,65600,77000,106000
+13-1082,Project Management Specialists,II,2600,88300,111600,154000
+13-1082,Project Management Specialists,III,2913,119400,148000,174000
+13-1082,Project Management Specialists,IV,2734,137700,167000,191000
+13-1111,Management Analysts,I,10332,64900,74600,85000
+13-1111,Management Analysts,II,26880,81200,92500,109300
+13-1111,Management Analysts,III,10519,104900,122800,165000
+13-1111,Management Analysts,IV,9586,120800,140800,175700
+13-1121,"Meeting, Convention, and Event Planners",I,140,43500,48900,60000
+13-1121,"Meeting, Convention, and Event Planners",II,127,50000,57600,65300
+13-1121,"Meeting, Convention, and Event Planners",III,75,65500,80200,108900
+13-1121,"Meeting, Convention, and Event Planners",IV,62,76800,100000,128800
+13-1131,Fundraisers,I,39,50000,60000,84100
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",I,163,56800,66100,80300
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",II,282,72000,88000,109200
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",III,95,85000,100000,131100
+13-1141,"Compensation, Benefits, and Job Analysis Specialists",IV,63,102300,116300,145700
+13-1151,Training and Development Specialists,I,464,45900,59000,75800
+13-1151,Training and Development Specialists,II,948,62000,75300,100700
+13-1151,Training and Development Specialists,III,363,75000,96000,144500
+13-1151,Training and Development Specialists,IV,150,99300,130000,160000
+13-1161,Market Research Analysts and Marketing Specialists,I,12551,52000,60100,74900
+13-1161,Market Research Analysts and Marketing Specialists,II,9840,65000,75800,100000
+13-1161,Market Research Analysts and Marketing Specialists,III,4445,89300,115000,152000
+13-1161,Market Research Analysts and Marketing Specialists,IV,3307,120000,150000,180000
+13-1199,Business Continuity Planners,I,594,53300,62500,75000
+13-1199,Business Continuity Planners,II,757,72700,85000,105300
+13-1199,Business Continuity Planners,III,297,90400,109600,132500
+13-1199,Business Continuity Planners,IV,207,120000,140700,175000
+13-2011,Accountants,I,17974,55600,63000,72000
+13-2011,Accountants,II,22719,75000,86000,100200
+13-2011,Accountants,III,9469,100000,120000,140000
+13-2011,Accountants,IV,6181,113900,137000,168000
+13-2031,Budget Analysts,I,746,58000,65000,72800
+13-2031,Budget Analysts,II,646,68400,75600,84300
+13-2031,Budget Analysts,III,122,81900,90000,107000
+13-2031,Budget Analysts,IV,89,98000,115000,135000
+13-2041,Credit Analysts,I,464,60000,70000,83000
+13-2041,Credit Analysts,II,629,78000,92300,108100
+13-2041,Credit Analysts,III,259,101800,118600,144200
+13-2041,Credit Analysts,IV,189,120000,148000,179000
+13-2051,Financial Analysts,I,18441,69000,82500,98000
+13-2051,Financial Analysts,II,20462,80300,100000,125000
+13-2051,Financial Analysts,III,8211,112500,140000,175000
+13-2051,Financial Analysts,IV,7597,140000,175000,228800
+13-2052,Personal Financial Advisors,I,234,53200,62400,70000
+13-2052,Personal Financial Advisors,II,134,72900,81900,107000
+13-2052,Personal Financial Advisors,III,70,98000,118200,132300
+13-2052,Personal Financial Advisors,IV,63,133900,150000,200000
+13-2053,Insurance Underwriters,I,81,59800,66000,75000
+13-2053,Insurance Underwriters,II,90,79900,91400,108800
+13-2054,Financial Risk Specialists,I,1526,68000,77600,90000
+13-2054,Financial Risk Specialists,II,2687,91000,110000,130000
+13-2054,Financial Risk Specialists,III,1492,123000,139900,160800
+13-2054,Financial Risk Specialists,IV,895,137600,166800,205400
+13-2071,Credit Counselors,I,41,44500,49000,58200
+13-2072,Loan Officers,I,82,54200,63500,74400
+13-2072,Loan Officers,II,94,72900,90000,110000
+13-2072,Loan Officers,III,41,106500,137200,180000
+13-2072,Loan Officers,IV,26,122700,141800,181800
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",II,42,78800,114500,155000
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",III,41,99000,150000,190000
+13-2081,"Tax Examiners and Collectors, and Revenue Agents",IV,95,165000,250000,300000
+13-2082,Tax Preparers,I,1040,51500,59300,63900
+13-2082,Tax Preparers,II,44,47500,77000,90000
+13-2082,Tax Preparers,III,32,90000,102400,122200
+13-2082,Tax Preparers,IV,28,89200,136100,178200
+13-2099,Financial Quantitative Analysts,I,2405,67700,80000,100000
+13-2099,Financial Quantitative Analysts,II,7047,95000,117600,150000
+13-2099,Financial Quantitative Analysts,III,3791,115100,140000,173400
+13-2099,Financial Quantitative Analysts,IV,3648,140000,175000,210000
+15-1132,"Software Developers, Applications",I,51,84700,90900,93900
+15-1132,"Software Developers, Applications",II,137,89400,98300,112900
+15-1132,"Software Developers, Applications",III,37,101100,111100,127400
+15-1133,"Software Developers, Systems Software",I,25,76100,91700,99200
+15-1133,"Software Developers, Systems Software",II,35,95300,109800,122400
+15-1143,Computer Network Architects,II,32,124500,131500,153100
+15-1143,Computer Network Architects,III,61,125500,145000,159700
+15-1143,Computer Network Architects,IV,194,140000,153000,166300
+15-1199,"Computer Occupations, All Other",I,118,69900,75000,84200
+15-1199,"Computer Occupations, All Other",II,643,70000,75300,90000
+15-1199,"Computer Occupations, All Other",III,84,92100,109000,121900
+15-1199,"Computer Occupations, All Other",IV,37,108600,118900,139600
+15-1211,Computer Systems Analyst,I,10137,70000,80000,90100
+15-1211,Computer Systems Analyst,II,63414,81900,92000,105700
+15-1211,Computer Systems Analyst,III,34053,99500,112300,130000
+15-1211,Computer Systems Analyst,IV,12885,120000,135300,155400
+15-1212,Information Security Analysts,I,3792,71700,82300,96300
+15-1212,Information Security Analysts,II,9856,93500,107000,130000
+15-1212,Information Security Analysts,III,5194,117000,140000,170600
+15-1212,Information Security Analysts,IV,6038,131000,153000,184100
+15-1217,"Computer Systems Analysts, Non R&D",II,36,93600,94000,114200
+15-1218,"Computer Systems Analysts, R&D",II,197,86000,102900,119700
+15-1218,"Computer Systems Analysts, R&D",III,143,106700,118400,130000
+15-1218,"Computer Systems Analysts, R&D",IV,175,105300,122100,140000
+15-1221,Computer and Information Research Scientists,I,2366,80000,119200,155000
+15-1221,Computer and Information Research Scientists,II,6422,111200,155000,180800
+15-1221,Computer and Information Research Scientists,III,3763,120000,160000,200000
+15-1221,Computer and Information Research Scientists,IV,2413,139200,173700,215300
+15-1231,Computer Network Support Specialists,I,304,59900,68000,73600
+15-1231,Computer Network Support Specialists,II,800,75200,85900,102700
+15-1231,Computer Network Support Specialists,III,303,98800,123200,151100
+15-1231,Computer Network Support Specialists,IV,127,114400,128200,145100
+15-1232,Computer User Support Specialists,I,192,55400,60000,73100
+15-1232,Computer User Support Specialists,II,1377,74000,79600,94300
+15-1232,Computer User Support Specialists,III,1531,92600,97400,109500
+15-1232,Computer User Support Specialists,IV,490,114400,123000,139200
+15-1241,Computer Network Architects,I,2668,70400,81600,93900
+15-1241,Computer Network Architects,II,8900,83000,96600,112800
+15-1241,Computer Network Architects,III,2787,109500,128200,150900
+15-1241,Computer Network Architects,IV,1954,124000,145000,175000
+15-1242,Database Administrators,I,4459,68000,78000,90000
+15-1242,Database Administrators,II,23354,79800,88000,104000
+15-1242,Database Administrators,III,8373,101800,117000,140000
+15-1242,Database Administrators,IV,6632,120000,135000,155700
+15-1243,Database Architects,I,1212,71400,85000,100000
+15-1243,Database Architects,II,8002,77900,95000,115000
+15-1243,Database Architects,III,5066,102000,122200,143000
+15-1243,Database Architects,IV,5150,128500,150000,175000
+15-1244,Network and Computer Systems Administrators,I,2137,63800,71800,85000
+15-1244,Network and Computer Systems Administrators,II,14469,77600,86600,100000
+15-1244,Network and Computer Systems Administrators,III,5491,96000,107500,125000
+15-1244,Network and Computer Systems Administrators,IV,2869,112400,126300,147900
+15-1251,Computer Programmers,I,6139,65000,75000,85500
+15-1251,Computer Programmers,II,42282,76800,85500,100000
+15-1251,Computer Programmers,III,5768,96300,109800,124000
+15-1251,Computer Programmers,IV,2091,114900,130400,149900
+15-1252,Software Developers,I,146027,77600,88400,110000
+15-1252,Software Developers,II,668605,91500,102500,125000
+15-1252,Software Developers,III,328292,110300,130000,159000
+15-1252,Software Developers,IV,227494,132300,155000,185000
+15-1253,Software Quality Assurance Analysts and Testers,I,12119,68600,78400,92200
+15-1253,Software Quality Assurance Analysts and Testers,II,76527,77400,88400,102100
+15-1253,Software Quality Assurance Analysts and Testers,III,27520,95300,109000,126100
+15-1253,Software Quality Assurance Analysts and Testers,IV,16799,114300,128000,150000
+15-1254,Web Developers,I,587,61000,75000,85000
+15-1254,Web Developers,II,2143,70200,80000,96600
+15-1254,Web Developers,III,453,86500,106000,123600
+15-1254,Web Developers,IV,274,122000,140000,160000
+15-1255,Video Game Designers,I,821,61500,72900,85000
+15-1255,Video Game Designers,II,3417,69200,80000,97000
+15-1255,Video Game Designers,III,900,87000,110000,135000
+15-1255,Video Game Designers,IV,686,103200,135000,170900
+15-1295,"Software Developers, Non R&D",I,114,70000,76600,89900
+15-1295,"Software Developers, Non R&D",II,338,80200,93000,110000
+15-1295,"Software Developers, Non R&D",III,239,96000,117000,136000
+15-1295,"Software Developers, Non R&D",IV,315,112200,127300,141800
+15-1296,"Software Developers, R&D",I,60,78000,90000,109200
+15-1296,"Software Developers, R&D",II,176,96100,112200,143500
+15-1296,"Software Developers, R&D",III,54,115000,120600,148000
+15-1296,"Software Developers, R&D",IV,44,112700,147500,223000
+15-1299,"Computer Occupations, All Other",I,15552,68000,83700,105000
+15-1299,"Computer Occupations, All Other",II,151468,75100,84500,103900
+15-1299,"Computer Occupations, All Other",III,74264,99400,116900,143000
+15-1299,"Computer Occupations, All Other",IV,53872,121000,142000,171500
+15-2011,Actuaries,I,821,81500,89100,99000
+15-2011,Actuaries,II,1006,102700,119500,137200
+15-2011,Actuaries,III,510,125000,145300,162000
+15-2011,Actuaries,IV,331,132000,163900,190000
+15-2021,Mathematicians,I,151,64000,75000,100000
+15-2021,Mathematicians,II,289,80000,102000,128500
+15-2021,Mathematicians,III,124,110000,135000,157900
+15-2021,Mathematicians,IV,158,142200,170000,207500
+15-2031,Operation Research Analysts,I,6186,62900,72400,88000
+15-2031,Operation Research Analysts,II,14984,87000,105000,133000
+15-2031,Operation Research Analysts,III,10806,108100,135000,163300
+15-2031,Operation Research Analysts,IV,6026,127800,153600,192500
+15-2041,Biostatisticians,I,3535,69400,77600,89800
+15-2041,Biostatisticians,II,7604,87500,100000,120000
+15-2041,Biostatisticians,III,5142,110000,126000,151300
+15-2041,Biostatisticians,IV,3132,126100,142700,165000
+15-2051,Business Intelligence Analysts,I,33056,70000,81300,98200
+15-2051,Business Intelligence Analysts,II,98994,89700,105000,130000
+15-2051,Business Intelligence Analysts,III,46001,110900,133000,160000
+15-2051,Business Intelligence Analysts,IV,34915,129700,153000,185000
+17-1011,"Architects, Except Landscape and Naval",I,4158,60400,67200,75000
+17-1011,"Architects, Except Landscape and Naval",II,2794,65900,80000,91500
+17-1011,"Architects, Except Landscape and Naval",III,903,73400,95600,114000
+17-1011,"Architects, Except Landscape and Naval",IV,574,85200,114200,139300
+17-1012,Landscape Architects,I,1107,57000,64000,70000
+17-1012,Landscape Architects,II,585,62700,72700,82000
+17-1012,Landscape Architects,III,120,74700,85000,93400
+17-1012,Landscape Architects,IV,55,86700,99200,128100
+17-1022,Geodetic Surveyors,I,34,50900,61900,84200
+17-1022,Geodetic Surveyors,II,57,68600,90300,108000
+17-1022,Geodetic Surveyors,IV,59,87900,102900,122200
+17-2011,Aerospace Engineers,I,232,68300,74000,90000
+17-2011,Aerospace Engineers,II,258,90000,109000,121000
+17-2011,Aerospace Engineers,III,128,109300,130000,140600
+17-2011,Aerospace Engineers,IV,98,98800,142000,166900
+17-2021,Agricultural Engineers,I,65,57200,61600,74500
+17-2031,Bioengineers and Biomedical Engineers,I,892,67400,78400,94500
+17-2031,Bioengineers and Biomedical Engineers,II,1467,86800,100000,120000
+17-2031,Bioengineers and Biomedical Engineers,III,808,97300,113500,138800
+17-2031,Bioengineers and Biomedical Engineers,IV,461,121700,159700,198900
+17-2041,Chemical Engineers,I,1573,68400,77200,86000
+17-2041,Chemical Engineers,II,2545,82100,91200,103200
+17-2041,Chemical Engineers,III,2932,94800,109700,116600
+17-2041,Chemical Engineers,IV,762,118100,131300,150000
+17-2051,Civil Engineers,I,13034,65000,72000,80000
+17-2051,Civil Engineers,II,10967,80500,88900,100000
+17-2051,Civil Engineers,III,3979,97000,109100,124500
+17-2051,Civil Engineers,IV,2461,111600,126900,149200
+17-2061,Computer Hardware Engineers,I,785,89300,104000,125000
+17-2061,Computer Hardware Engineers,II,3287,112900,140000,160000
+17-2061,Computer Hardware Engineers,III,2421,146700,164700,188000
+17-2061,Computer Hardware Engineers,IV,1157,165000,183600,211400
+17-2071,Electrical Engineers,I,6037,70500,78200,88800
+17-2071,Electrical Engineers,II,10937,85900,96800,112000
+17-2071,Electrical Engineers,III,6377,109600,126000,150000
+17-2071,Electrical Engineers,IV,4615,122700,145000,175400
+17-2072,"Electronics Engineers, Except Computer",I,2838,75900,90000,105000
+17-2072,"Electronics Engineers, Except Computer",II,16091,100000,111600,125000
+17-2072,"Electronics Engineers, Except Computer",III,12089,124500,138400,153300
+17-2072,"Electronics Engineers, Except Computer",IV,10229,154000,172200,196000
+17-2074,"Electrical Engineers, R&D",I,58,68800,83200,91900
+17-2074,"Electrical Engineers, R&D",II,72,72500,77200,92500
+17-2074,"Electrical Engineers, R&D",III,101,83900,89600,96200
+17-2074,"Electrical Engineers, R&D",IV,42,95600,110000,120000
+17-2076,"Electronics Engineers, Except Computer, R&D",I,54,70000,75000,79800
+17-2076,"Electronics Engineers, Except Computer, R&D",II,75,70400,80000,93600
+17-2076,"Electronics Engineers, Except Computer, R&D",III,30,98900,110300,119500
+17-2081,Environmental Engineers,I,696,65300,73000,81000
+17-2081,Environmental Engineers,II,544,80000,90000,100000
+17-2081,Environmental Engineers,III,171,95000,109600,128900
+17-2081,Environmental Engineers,IV,90,105400,121600,140400
+17-2111,Fire-Prevention and Protection Engineers,I,290,70900,80000,90000
+17-2111,Fire-Prevention and Protection Engineers,II,470,81900,94500,113800
+17-2111,Fire-Prevention and Protection Engineers,III,254,98800,117700,140000
+17-2111,Fire-Prevention and Protection Engineers,IV,223,122600,144100,178600
+17-2112,Human Factors Engineers and Ergonomists,I,11337,67000,74900,85000
+17-2112,Human Factors Engineers and Ergonomists,II,26007,82300,92000,105000
+17-2112,Human Factors Engineers and Ergonomists,III,13491,102700,118400,140000
+17-2112,Human Factors Engineers and Ergonomists,IV,8839,116200,136100,165000
+17-2121,Marine Engineers and Naval Architects,I,111,70000,79600,87000
+17-2121,Marine Engineers and Naval Architects,II,116,83300,90000,101000
+17-2121,Marine Engineers and Naval Architects,III,50,99300,115100,123300
+17-2121,Marine Engineers and Naval Architects,IV,25,124800,130000,138000
+17-2131,Materials Engineers,I,1388,67900,76000,88900
+17-2131,Materials Engineers,II,2908,83000,92000,105400
+17-2131,Materials Engineers,III,2155,109500,120600,130300
+17-2131,Materials Engineers,IV,681,113900,131300,155200
+17-2141,Automotive Engineers,I,11956,66800,73000,84000
+17-2141,Automotive Engineers,II,23511,81200,90000,105700
+17-2141,Automotive Engineers,III,10229,101500,120000,143300
+17-2141,Automotive Engineers,IV,8260,123600,151700,181400
+17-2144,"Mechanical Engineers, R&D",I,269,70000,85000,92500
+17-2144,"Mechanical Engineers, R&D",II,354,83300,92600,117100
+17-2144,"Mechanical Engineers, R&D",III,192,98600,116900,150000
+17-2144,"Mechanical Engineers, R&D",IV,205,145000,206000,238400
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",I,134,58700,76800,90000
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",II,83,79500,92000,102300
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",III,60,98900,113000,134800
+17-2151,"Mining and Geological Engineers, Including Mining Safety Engineers",IV,75,118700,134700,172500
+17-2161,Nuclear Engineers,II,39,80100,84100,96700
+17-2171,Petroleum Engineers,I,173,96000,106300,120000
+17-2171,Petroleum Engineers,II,170,109200,133200,147100
+17-2171,Petroleum Engineers,III,72,129200,164200,175000
+17-2171,Petroleum Engineers,IV,107,165000,190000,215800
+17-2199,Biochemical Engineers,I,2459,68600,78000,90000
+17-2199,Biochemical Engineers,II,4370,85300,97900,115000
+17-2199,Biochemical Engineers,III,2238,107500,125000,147000
+17-2199,Biochemical Engineers,IV,1470,124800,145000,172200
+17-3011,Architectural and Civil Drafters,I,229,50000,60400,72000
+17-3011,Architectural and Civil Drafters,II,144,54000,61000,80000
+17-3011,Architectural and Civil Drafters,III,69,64900,69000,78300
+17-3011,Architectural and Civil Drafters,IV,29,74200,84200,88000
+17-3013,Mechanical Drafters,I,55,55000,60000,68500
+17-3013,Mechanical Drafters,II,52,62500,76300,86300
+17-3022,Civil Engineering Technologists and Technicians,I,39,53500,65000,76900
+17-3022,Civil Engineering Technologists and Technicians,II,32,73900,90100,93200
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,I,75,55000,65400,78400
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,II,87,60100,72800,88300
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,III,71,75900,98100,115900
+17-3023,Electrical and Electronic Engineering Technologists and Technicians,IV,36,104000,125000,153200
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,I,25,80000,105000,155000
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,II,47,105000,165000,180600
+17-3024,Electro-Mechanical and Mechatronics Technologists and Technicians,III,30,181200,203300,220000
+17-3025,Environmental Engineering Technologists and Technicians,I,39,47800,62200,81800
+17-3025,Environmental Engineering Technologists and Technicians,II,27,73500,90600,115900
+17-3026,Industrial Engineering Technologists and Technicians,I,38,51500,66800,79800
+17-3026,Industrial Engineering Technologists and Technicians,II,48,54700,71100,87700
+17-3027,Mechanical Engineering Technologists and Technicians,I,47,59800,70000,78200
+17-3027,Mechanical Engineering Technologists and Technicians,II,72,55700,65500,83200
+17-3027,Mechanical Engineering Technologists and Technicians,III,46,79300,110200,135000
+17-3027,Mechanical Engineering Technologists and Technicians,IV,29,110300,140000,147000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",I,114,60600,80000,95000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",II,149,78100,88700,110000
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",III,136,95400,112600,130600
+17-3029,"Engineering Technologists and Technicians, Except Drafters, All Other",IV,56,114800,132300,158000
+17-3031,Surveying and Mapping Technicians,I,43,54500,62400,77100
+17-3031,Surveying and Mapping Technicians,II,36,75000,89300,102300
+19-1011,Animal Scientists,I,119,48800,57000,67600
+19-1011,Animal Scientists,II,72,64200,70000,80500
+19-1011,Animal Scientists,III,33,80200,90000,100000
+19-1011,Animal Scientists,IV,52,87100,99700,117900
+19-1012,Food Scientists and Technologists,I,341,53300,62800,74000
+19-1012,Food Scientists and Technologists,II,352,64600,78000,90100
+19-1012,Food Scientists and Technologists,III,185,81900,98500,110200
+19-1012,Food Scientists and Technologists,IV,131,96700,113800,128100
+19-1013,Soil and Plant Scientists,I,405,52700,58400,70000
+19-1013,Soil and Plant Scientists,II,248,64000,77300,92400
+19-1013,Soil and Plant Scientists,III,78,74000,82200,90600
+19-1013,Soil and Plant Scientists,IV,56,93700,116600,160000
+19-1021,Biochemists and Biophysicists,I,13836,55000,60800,70000
+19-1021,Biochemists and Biophysicists,II,4142,63300,77100,95000
+19-1021,Biochemists and Biophysicists,III,1602,73100,96000,125000
+19-1021,Biochemists and Biophysicists,IV,755,87000,120000,151800
+19-1022,Microbiologists,I,665,61000,74300,93600
+19-1022,Microbiologists,II,1528,75000,90000,110000
+19-1022,Microbiologists,III,984,96000,111700,129800
+19-1022,Microbiologists,IV,547,109900,130000,149400
+19-1023,Zoologists and Wildlife Biologists,II,34,58600,65800,79500
+19-1029,Bioinformatics Scientists,I,4655,57000,66500,78000
+19-1029,Bioinformatics Scientists,II,4361,71200,87000,106000
+19-1029,Bioinformatics Scientists,III,2828,85000,106700,130500
+19-1029,Bioinformatics Scientists,IV,1961,105300,134500,166400
+19-1032,Foresters,II,27,66500,79400,91100
+19-1041,Epidemiologists,I,197,55100,69000,76700
+19-1041,Epidemiologists,II,187,69400,82100,96300
+19-1041,Epidemiologists,III,67,85500,99100,139200
+19-1041,Epidemiologists,IV,55,96900,109300,137200
+19-1042,"Medical Scientists, Except Epidemiologists",I,22207,54400,61000,70000
+19-1042,"Medical Scientists, Except Epidemiologists",II,10284,66000,82900,106100
+19-1042,"Medical Scientists, Except Epidemiologists",III,3739,80000,105100,128000
+19-1042,"Medical Scientists, Except Epidemiologists",IV,1769,97200,125000,160000
+19-1099,"Life Scientists, All Other",I,65,103000,110000,120000
+19-1099,"Life Scientists, All Other",II,186,99800,115000,125000
+19-1099,"Life Scientists, All Other",III,76,100900,120000,131700
+19-1099,"Life Scientists, All Other",IV,30,112600,130000,165000
+19-2011,Astronomers,I,403,80000,115000,172500
+19-2011,Astronomers,II,297,99800,137500,200000
+19-2011,Astronomers,III,253,113600,173400,240000
+19-2011,Astronomers,IV,276,147900,190000,256700
+19-2012,Physicists,I,3614,60400,70500,84000
+19-2012,Physicists,II,4025,70000,87700,131200
+19-2012,Physicists,III,2845,90000,130000,160000
+19-2012,Physicists,IV,1685,126000,183200,205000
+19-2021,Atmospheric and Space Scientists,I,6403,53900,58700,65000
+19-2021,Atmospheric and Space Scientists,II,687,55600,63000,75000
+19-2021,Atmospheric and Space Scientists,III,159,57200,66600,86900
+19-2021,Atmospheric and Space Scientists,IV,29,77500,104700,115500
+19-2031,Chemists,I,1815,60000,63900,73500
+19-2031,Chemists,II,2266,75200,82000,95000
+19-2031,Chemists,III,1237,90000,100900,119900
+19-2031,Chemists,IV,915,100000,120000,140500
+19-2032,Materials Scientists,I,359,60000,72200,87400
+19-2032,Materials Scientists,II,562,75000,82800,100000
+19-2032,Materials Scientists,III,270,91300,110900,131400
+19-2032,Materials Scientists,IV,149,110500,125000,150000
+19-2041,Climate Change Policy Analysts,I,276,54900,60900,71500
+19-2041,Climate Change Policy Analysts,II,317,70000,76600,90000
+19-2041,Climate Change Policy Analysts,III,100,87900,100000,113300
+19-2041,Climate Change Policy Analysts,IV,69,98500,111000,129600
+19-2042,"Geoscientists, Except Hydrologists and Geographers",I,215,65000,81300,98800
+19-2042,"Geoscientists, Except Hydrologists and Geographers",II,280,82800,106600,138100
+19-2042,"Geoscientists, Except Hydrologists and Geographers",III,132,101600,125000,147500
+19-2042,"Geoscientists, Except Hydrologists and Geographers",IV,123,126000,154100,191200
+19-2043,Hydrologists,I,115,60000,73500,88300
+19-2043,Hydrologists,II,285,85000,102500,138000
+19-2043,Hydrologists,III,75,95400,114600,130100
+19-2043,Hydrologists,IV,164,130000,144800,160000
+19-3011,Economists,I,1173,70800,83000,108300
+19-3011,Economists,II,2336,87000,105000,128500
+19-3011,Economists,III,1171,102600,131700,163500
+19-3011,Economists,IV,754,130000,179700,220000
+19-3022,Survey Researchers,I,76,45100,48400,55000
+19-3022,Survey Researchers,II,33,49700,61000,70100
+19-3032,Industrial-Organizational Psychologists,II,36,83400,89900,98700
+19-3033,Clinical and Counseling Psychologists,I,157,61700,71200,85000
+19-3033,Clinical and Counseling Psychologists,II,198,73900,86200,100000
+19-3033,Clinical and Counseling Psychologists,III,64,84500,102900,110000
+19-3033,Clinical and Counseling Psychologists,IV,34,89500,105000,129700
+19-3034,School Psychologists,I,41,57500,69200,75200
+19-3034,School Psychologists,II,34,72000,77600,92000
+19-3039,"Psychologists, All Other",I,108,49000,56400,70700
+19-3039,"Psychologists, All Other",II,125,58000,70000,95000
+19-3039,"Psychologists, All Other",III,58,63600,82000,97500
+19-3039,"Psychologists, All Other",IV,46,89100,104000,125300
+19-3051,Urban and Regional Planners,I,411,59200,66100,75000
+19-3051,Urban and Regional Planners,II,268,67900,75000,89200
+19-3051,Urban and Regional Planners,III,73,84800,95000,112000
+19-3051,Urban and Regional Planners,IV,35,97400,118900,136000
+19-3092,Geographers,II,43,72700,79900,105100
+19-3094,Political Scientists,I,73,58100,72800,87700
+19-3094,Political Scientists,II,99,77600,96000,128300
+19-3094,Political Scientists,III,54,105800,138700,160000
+19-3094,Political Scientists,IV,61,145000,178000,237000
+19-3099,"Social Scientists and Related Workers, All Other",I,371,65000,72800,80000
+19-3099,"Social Scientists and Related Workers, All Other",II,417,70000,80000,90900
+19-3099,"Social Scientists and Related Workers, All Other",III,173,95000,110900,133000
+19-3099,"Social Scientists and Related Workers, All Other",IV,113,105000,117700,145000
+19-4013,Food Science Technicians,I,56,37400,40600,43700
+19-4013,Food Science Technicians,II,31,65000,70000,80000
+19-4021,Biological Technicians,I,10940,50900,60000,69700
+19-4021,Biological Technicians,II,6841,57300,68000,80000
+19-4021,Biological Technicians,III,2840,65000,77200,103800
+19-4021,Biological Technicians,IV,859,69200,87400,120200
+19-4061,Social Science Research Assistants,I,514,60000,77600,91000
+19-4061,Social Science Research Assistants,II,4910,93600,116300,139000
+19-4061,Social Science Research Assistants,III,943,99400,122200,150000
+19-4061,Social Science Research Assistants,IV,690,103600,145000,190000
+19-4092,Forensic Science Technicians,I,39,62200,65400,78600
+19-5011,Occupational Health and Safety Specialists,I,204,53000,64900,79000
+19-5011,Occupational Health and Safety Specialists,II,194,72500,90000,117300
+19-5011,Occupational Health and Safety Specialists,III,142,84000,104800,135900
+19-5011,Occupational Health and Safety Specialists,IV,130,128100,150000,219000
+19-5012,Occupational Health and Safety Technicians,I,34,55700,63500,70900
+19-5012,Occupational Health and Safety Technicians,II,55,68100,79900,93900
+21-1011,Substance Abuse and Behavioral Disorder Counselors,I,28,34000,48900,54500
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",I,578,42900,48100,55300
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",II,357,52000,60500,69200
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",III,131,70200,96000,126000
+21-1012,"Educational, Guidance, and Career Counselors and Advisors",IV,85,100000,121400,143300
+21-1013,Marriage and Family Therapists,I,164,41600,48600,59800
+21-1013,Marriage and Family Therapists,II,171,50000,58000,62400
+21-1013,Marriage and Family Therapists,III,53,56800,68300,73900
+21-1013,Marriage and Family Therapists,IV,37,66000,79300,99000
+21-1014,Mental Health Counselors,I,637,44000,50500,65000
+21-1014,Mental Health Counselors,II,998,49000,56200,68000
+21-1014,Mental Health Counselors,III,314,60000,70600,80000
+21-1014,Mental Health Counselors,IV,204,65500,82300,108200
+21-1015,Rehabilitation Counselors,I,3078,32600,36400,39200
+21-1015,Rehabilitation Counselors,II,784,43300,47000,54300
+21-1015,Rehabilitation Counselors,III,163,51900,76200,123600
+21-1015,Rehabilitation Counselors,IV,331,163400,190000,204100
+21-1021,"Child, Family, and School Social Workers",I,265,49100,52800,58600
+21-1021,"Child, Family, and School Social Workers",II,210,54600,64500,72100
+21-1021,"Child, Family, and School Social Workers",III,67,66600,74300,85500
+21-1022,Healthcare Social Workers,I,70,51800,55100,60000
+21-1022,Healthcare Social Workers,II,75,58600,67100,76000
+21-1022,Healthcare Social Workers,III,31,70600,83400,90700
+21-1023,Mental Health and Substance Abuse Social Workers,I,89,45000,54600,62000
+21-1023,Mental Health and Substance Abuse Social Workers,II,112,51800,59100,66200
+21-1023,Mental Health and Substance Abuse Social Workers,III,56,63000,70000,81100
+21-1023,Mental Health and Substance Abuse Social Workers,IV,47,69200,83200,114400
+21-1091,Health Education Specialists,I,221,42800,49900,66400
+21-1091,Health Education Specialists,II,188,52100,57100,74800
+21-1091,Health Education Specialists,III,65,64600,70000,78000
+21-1091,Health Education Specialists,IV,27,67600,79700,85500
+21-1093,Social and Human Service Assistants,I,44,33700,42500,48000
+21-1093,Social and Human Service Assistants,II,28,49300,54000,61200
+21-2011,Clergy,I,392,37500,44100,53500
+21-2011,Clergy,II,229,50000,59000,72600
+21-2011,Clergy,III,99,58400,64900,74500
+21-2011,Clergy,IV,100,64700,75100,86700
+21-2021,"Directors, Religious Activities and Education",I,51,39000,43400,51500
+21-2021,"Directors, Religious Activities and Education",II,44,44300,54600,62900
+23-1011,Lawyers,I,2966,83200,97000,120000
+23-1011,Lawyers,II,3098,140000,180000,225000
+23-1011,Lawyers,III,1665,190000,226900,303200
+23-1011,Lawyers,IV,1020,227000,295000,375000
+23-1012,Judicial Law Clerks,I,1342,50300,65200,190000
+23-1012,Judicial Law Clerks,II,1254,61400,75000,215000
+23-1012,Judicial Law Clerks,III,494,69400,80000,180200
+23-1012,Judicial Law Clerks,IV,442,85000,149800,205000
+23-2011,Paralegals and Legal Assistants,I,215,43600,50500,60000
+23-2011,Paralegals and Legal Assistants,II,225,53000,60000,66300
+23-2011,Paralegals and Legal Assistants,III,94,62400,72000,75800
+23-2011,Paralegals and Legal Assistants,IV,82,76800,100000,100000
+25-1011,"Business Teachers, Postsecondary",I,1381,70400,107000,138000
+25-1011,"Business Teachers, Postsecondary",II,717,85000,110000,138000
+25-1011,"Business Teachers, Postsecondary",III,240,106400,125300,150000
+25-1011,"Business Teachers, Postsecondary",IV,163,120000,143500,190000
+25-1021,"Computer Science Teachers, Postsecondary",I,1819,70000,85000,105000
+25-1021,"Computer Science Teachers, Postsecondary",II,810,76400,88300,105200
+25-1021,"Computer Science Teachers, Postsecondary",III,211,83000,100000,114300
+25-1021,"Computer Science Teachers, Postsecondary",IV,62,85300,114500,151500
+25-1022,"Mathematical Science Teachers, Postsecondary",I,952,56300,67000,82000
+25-1022,"Mathematical Science Teachers, Postsecondary",II,417,65000,75700,99900
+25-1022,"Mathematical Science Teachers, Postsecondary",III,153,84900,103800,136200
+25-1022,"Mathematical Science Teachers, Postsecondary",IV,75,116800,153200,174500
+25-1031,"Architecture Teachers, Postsecondary",I,150,65000,72100,82400
+25-1031,"Architecture Teachers, Postsecondary",II,59,64100,73100,85000
+25-1032,"Engineering Teachers, Postsecondary",I,1065,74500,85000,94000
+25-1032,"Engineering Teachers, Postsecondary",II,276,81000,90000,105000
+25-1032,"Engineering Teachers, Postsecondary",III,68,78900,92100,111300
+25-1041,"Agricultural Sciences Teachers, Postsecondary",I,759,75200,100000,130700
+25-1041,"Agricultural Sciences Teachers, Postsecondary",II,907,92000,120300,160000
+25-1041,"Agricultural Sciences Teachers, Postsecondary",III,443,108900,147100,206000
+25-1041,"Agricultural Sciences Teachers, Postsecondary",IV,211,131800,183600,295300
+25-1042,"Biological Science Teachers, Postsecondary",I,23658,75000,95000,118000
+25-1042,"Biological Science Teachers, Postsecondary",II,10304,86500,110000,155000
+25-1042,"Biological Science Teachers, Postsecondary",III,3416,93000,129700,225000
+25-1042,"Biological Science Teachers, Postsecondary",IV,1117,102800,141700,225900
+25-1043,"Forestry and Conservation Science Teachers, Postsecondary",I,53,61400,70700,79500
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",I,90,62000,71500,82100
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",II,68,73600,86800,113600
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",III,50,88200,105200,125600
+25-1051,"Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary",IV,31,123800,135600,148100
+25-1052,"Chemistry Teachers, Postsecondary",I,369,58000,63000,74000
+25-1052,"Chemistry Teachers, Postsecondary",II,90,67300,73700,85000
+25-1053,"Environmental Science Teachers, Postsecondary",I,95,61400,70000,75300
+25-1053,"Environmental Science Teachers, Postsecondary",II,38,58900,80700,96000
+25-1054,"Physics Teachers, Postsecondary",I,635,61300,69200,81500
+25-1054,"Physics Teachers, Postsecondary",II,186,72300,82100,95100
+25-1054,"Physics Teachers, Postsecondary",III,99,81600,105000,124200
+25-1054,"Physics Teachers, Postsecondary",IV,33,129600,161300,205000
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",I,64,62900,70100,88000
+25-1061,"Anthropology and Archeology Teachers, Postsecondary",II,25,74800,77200,104700
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",I,131,57100,68500,80000
+25-1062,"Area, Ethnic, and Cultural Studies Teachers, Postsecondary",II,52,61100,70300,85300
+25-1063,"Economics Teachers, Postsecondary",I,834,72000,84500,100000
+25-1063,"Economics Teachers, Postsecondary",II,234,85100,95100,119500
+25-1063,"Economics Teachers, Postsecondary",III,52,92900,119500,145000
+25-1064,"Geography Teachers, Postsecondary",I,79,63000,75000,83600
+25-1064,"Geography Teachers, Postsecondary",II,63,72400,79000,95400
+25-1065,"Political Science Teachers, Postsecondary",I,291,59800,67300,80500
+25-1065,"Political Science Teachers, Postsecondary",II,74,67800,82500,103000
+25-1066,"Psychology Teachers, Postsecondary",I,318,57100,64000,74500
+25-1066,"Psychology Teachers, Postsecondary",II,133,63500,75000,100000
+25-1066,"Psychology Teachers, Postsecondary",III,53,90000,135300,200000
+25-1066,"Psychology Teachers, Postsecondary",IV,26,116300,175000,204500
+25-1067,"Sociology Teachers, Postsecondary",I,116,55600,63500,72500
+25-1071,"Health Specialties Teachers, Postsecondary",I,2582,74200,96600,151000
+25-1071,"Health Specialties Teachers, Postsecondary",II,2983,115500,168000,240000
+25-1071,"Health Specialties Teachers, Postsecondary",III,1273,163700,217000,293300
+25-1071,"Health Specialties Teachers, Postsecondary",IV,724,195100,248000,330000
+25-1072,"Nursing Instructors and Teachers, Postsecondary",I,71,57500,66500,82400
+25-1072,"Nursing Instructors and Teachers, Postsecondary",II,47,72300,82500,96400
+25-1081,"Education Teachers, Postsecondary",I,1469,59700,70000,85000
+25-1081,"Education Teachers, Postsecondary",II,243,64600,75100,90200
+25-1081,"Education Teachers, Postsecondary",III,39,78200,85000,100900
+25-1082,"Library Science Teachers, Postsecondary",I,26,56000,60500,81800
+25-1111,"Criminal Justice and Law Enforcement Teachers, Postsecondary",I,59,54000,60000,71100
+25-1112,"Law Teachers, Postsecondary",I,61,86400,105000,147000
+25-1112,"Law Teachers, Postsecondary",II,39,107200,122000,175400
+25-1113,"Social Work Teachers, Postsecondary",I,59,54600,61200,70500
+25-1113,"Social Work Teachers, Postsecondary",II,27,62000,68000,83600
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",I,397,52500,60000,70000
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",II,190,56000,65000,78800
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",III,72,62700,68300,86100
+25-1121,"Art, Drama, and Music Teachers, Postsecondary",IV,47,77400,93600,110200
+25-1122,"Communications Teachers, Postsecondary",I,275,55000,62100,70000
+25-1122,"Communications Teachers, Postsecondary",II,114,60600,70800,78600
+25-1123,"English Language and Literature Teachers, Postsecondary",I,181,55000,61500,74000
+25-1123,"English Language and Literature Teachers, Postsecondary",II,88,59000,67200,85800
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",I,2978,53000,62000,71900
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",II,597,59100,68300,83000
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",III,103,65300,73200,95500
+25-1124,"Foreign Language and Literature Teachers, Postsecondary",IV,25,55500,68500,108000
+25-1125,"History Teachers, Postsecondary",I,178,58000,67500,78300
+25-1125,"History Teachers, Postsecondary",II,57,61800,70600,82000
+25-1126,"Philosophy and Religion Teachers, Postsecondary",I,213,55800,62000,70800
+25-1126,"Philosophy and Religion Teachers, Postsecondary",II,110,64000,72500,83800
+25-1126,"Philosophy and Religion Teachers, Postsecondary",III,30,76600,86300,90900
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",I,123,47000,57800,63900
+25-1193,"Recreation and Fitness Studies Teachers, Postsecondary",II,51,54000,57700,69000
+25-1194,"Career/Technical Education Teachers, Postsecondary",I,76,54000,65000,75500
+25-1194,"Career/Technical Education Teachers, Postsecondary",II,40,66900,82000,90000
+25-2011,"Preschool Teachers, Except Special Education",I,401,36000,43400,50000
+25-2011,"Preschool Teachers, Except Special Education",II,221,38500,43700,55700
+25-2011,"Preschool Teachers, Except Special Education",III,53,41000,44700,57300
+25-2011,"Preschool Teachers, Except Special Education",IV,34,47300,48900,56200
+25-2012,"Kindergarten Teachers, Except Special Education",I,473,49500,54000,61800
+25-2012,"Kindergarten Teachers, Except Special Education",II,158,50000,60000,68000
+25-2012,"Kindergarten Teachers, Except Special Education",III,44,50700,55200,77500
+25-2012,"Kindergarten Teachers, Except Special Education",IV,31,54200,61300,69900
+25-2021,"Elementary School Teachers, Except Special Education",I,6914,44600,50700,58000
+25-2021,"Elementary School Teachers, Except Special Education",II,4237,53000,60500,66200
+25-2021,"Elementary School Teachers, Except Special Education",III,753,52000,58500,64800
+25-2021,"Elementary School Teachers, Except Special Education",IV,561,58000,64800,73200
+25-2022,Middle School Teachers,I,1202,46100,52400,60000
+25-2022,Middle School Teachers,II,650,50500,56900,64800
+25-2022,Middle School Teachers,III,203,55000,61300,67400
+25-2022,Middle School Teachers,IV,129,57600,66600,72800
+25-2023,"Career/Technical Education Teachers, Middle School",I,103,44800,50900,55500
+25-2023,"Career/Technical Education Teachers, Middle School",II,62,52900,59900,89800
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",I,5751,45600,52000,58700
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",II,2520,50700,56800,66500
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",III,663,53700,60200,67700
+25-2031,"Secondary School Teachers, Except Special and Career/Technical Education",IV,501,58200,67300,79500
+25-2051,"Special Education Teachers, Preschool",I,80,50000,55100,57500
+25-2056,"Special Education Teachers, Elementary School",I,1053,47500,51900,61000
+25-2056,"Special Education Teachers, Elementary School",II,483,52100,58000,68300
+25-2056,"Special Education Teachers, Elementary School",III,146,50800,58400,65800
+25-2056,"Special Education Teachers, Elementary School",IV,135,60000,68300,78100
+25-2057,"Special Education Teachers, Middle School",I,135,47500,58100,62600
+25-2057,"Special Education Teachers, Middle School",II,81,54800,60000,67000
+25-2058,"Special Education Teachers, Secondary School",I,172,50000,61000,70600
+25-2058,"Special Education Teachers, Secondary School",II,127,54800,59600,67600
+25-2059,"Special Education Teachers, All Other",I,84,48200,60300,64300
+25-2059,"Special Education Teachers, All Other",II,30,51300,66000,79200
+25-3011,Adult Basic and Secondary Education and Literacy Teachers and Instructors,I,38,47700,51000,55200
+25-3021,Self-Enrichment Teachers,I,55,44600,55000,64200
+25-3021,Self-Enrichment Teachers,II,65,52000,61200,83200
+25-3021,Self-Enrichment Teachers,III,30,64000,72400,82700
+25-3041,Tutors,I,59,43400,53700,61900
+25-3041,Tutors,II,32,39500,68100,72000
+25-3099,"Teachers and Instructors, All Other",I,338,43700,46500,52500
+25-3099,"Teachers and Instructors, All Other",II,212,45100,50300,57800
+25-3099,"Teachers and Instructors, All Other",III,49,45700,59600,69100
+25-3099,"Teachers and Instructors, All Other",IV,35,53000,60100,72900
+25-4012,Curators,I,115,48500,54500,64500
+25-4012,Curators,II,104,62400,75500,88500
+25-4012,Curators,III,37,71000,85000,115000
+25-4012,Curators,IV,49,90600,125000,160000
+25-4013,Museum Technicians and Conservators,II,35,60000,72000,75000
+25-4022,Librarians and Media Collections Specialists,I,173,49500,57000,65500
+25-4022,Librarians and Media Collections Specialists,II,102,60000,67000,77500
+25-4022,Librarians and Media Collections Specialists,III,26,62000,80700,95600
+25-9021,Farm and Home Management Educators,I,62,45300,46900,60200
+25-9021,Farm and Home Management Educators,II,45,50400,67600,72800
+25-9031,Instructional Coordinators,I,940,50500,59600,70000
+25-9031,Instructional Coordinators,II,549,62000,69300,83200
+25-9031,Instructional Coordinators,III,223,68200,80000,95700
+25-9031,Instructional Coordinators,IV,98,82100,99000,124800
+25-9044,"Teaching Assistants, Postsecondary",I,1850,55000,67500,80000
+25-9044,"Teaching Assistants, Postsecondary",II,1253,64000,75000,95000
+25-9044,"Teaching Assistants, Postsecondary",III,217,76500,88000,113300
+25-9044,"Teaching Assistants, Postsecondary",IV,63,87700,115000,168000
+27-1011,Art Directors,I,422,68000,80200,90000
+27-1011,Art Directors,II,340,85000,115000,130000
+27-1011,Art Directors,III,312,120800,145600,175000
+27-1011,Art Directors,IV,554,154500,200000,233000
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",I,43,67700,88400,95500
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",II,62,72200,100000,110000
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",III,30,98100,106600,162100
+27-1013,"Fine Artists, Including Painters, Sculptors, and Illustrators",IV,26,102800,141400,197500
+27-1014,Multimedia Artists and Animators,I,262,54500,65000,76800
+27-1014,Multimedia Artists and Animators,II,382,72500,82000,101900
+27-1014,Multimedia Artists and Animators,III,163,91900,110400,134700
+27-1014,Multimedia Artists and Animators,IV,141,106500,138000,163400
+27-1019,"Artists and Related Workers, All Other",I,56,53900,67000,86200
+27-1019,"Artists and Related Workers, All Other",II,28,65000,90000,120600
+27-1021,Commercial and Industrial Designers,I,944,58200,72100,92200
+27-1021,Commercial and Industrial Designers,II,2584,75000,92000,120800
+27-1021,Commercial and Industrial Designers,III,1487,98000,134000,160000
+27-1021,Commercial and Industrial Designers,IV,1532,115000,150000,187000
+27-1022,Fashion Designers,I,293,49300,53300,61300
+27-1022,Fashion Designers,II,164,69800,71800,78200
+27-1022,Fashion Designers,III,31,75000,94500,105600
+27-1022,Fashion Designers,IV,26,100100,113700,129400
+27-1024,Graphic Designers,I,2625,50500,62000,78100
+27-1024,Graphic Designers,II,5732,67100,85300,120000
+27-1024,Graphic Designers,III,2781,83000,120500,157100
+27-1024,Graphic Designers,IV,2004,100000,140000,180000
+27-1025,Interior Designers,I,963,49900,57000,65600
+27-1025,Interior Designers,II,1037,58700,65000,76300
+27-1025,Interior Designers,III,361,70200,80000,90800
+27-1025,Interior Designers,IV,255,90000,104000,125000
+27-1026,Merchandise Displayers and Window Trimmers,I,61,52000,70400,81700
+27-1026,Merchandise Displayers and Window Trimmers,II,55,65000,82500,113600
+27-1026,Merchandise Displayers and Window Trimmers,III,71,92500,115000,155000
+27-1026,Merchandise Displayers and Window Trimmers,IV,55,115000,132000,168100
+27-2012,Producers,I,461,55000,62400,72800
+27-2012,Producers,II,355,78700,93600,110000
+27-2012,Producers,III,167,94500,130000,149500
+27-2012,Producers,IV,205,125000,160000,185900
+27-2022,Coaches and Scouts,I,607,35000,40000,50000
+27-2022,Coaches and Scouts,II,511,42000,50000,60000
+27-2022,Coaches and Scouts,III,148,50000,61000,75000
+27-2022,Coaches and Scouts,IV,159,62200,75000,127500
+27-2041,Music Directors and Composers,I,124,41800,50000,58100
+27-2041,Music Directors and Composers,II,141,55000,74900,161300
+27-2041,Music Directors and Composers,III,41,61700,81800,125200
+27-2041,Music Directors and Composers,IV,52,71000,135000,189300
+27-2042,Musicians and Singers,I,65,41600,48500,55600
+27-2042,Musicians and Singers,II,36,51500,63000,78100
+27-3023,"News Analysts, Reporters, and Journalists",I,222,39700,50300,56700
+27-3023,"News Analysts, Reporters, and Journalists",II,214,60000,69900,76000
+27-3023,"News Analysts, Reporters, and Journalists",III,65,85000,92200,105000
+27-3023,"News Analysts, Reporters, and Journalists",IV,34,109900,119900,129700
+27-3031,Public Relations Specialists,I,1284,45300,52000,60000
+27-3031,Public Relations Specialists,II,1222,60000,67800,80000
+27-3031,Public Relations Specialists,III,405,78100,90000,111000
+27-3031,Public Relations Specialists,IV,262,105400,132000,165000
+27-3041,Editors,I,233,47600,54000,62400
+27-3041,Editors,II,228,64400,70700,85100
+27-3041,Editors,III,90,85500,95000,106800
+27-3041,Editors,IV,63,98200,111700,133500
+27-3042,Technical Writers,I,185,56600,64200,72800
+27-3042,Technical Writers,II,467,73000,85000,100000
+27-3042,Technical Writers,III,184,89900,106000,129600
+27-3042,Technical Writers,IV,138,103900,129700,145500
+27-3043,Writers and Authors,I,81,55000,60300,70000
+27-3043,Writers and Authors,II,144,61900,80000,90000
+27-3043,Writers and Authors,III,64,89600,100000,119200
+27-3043,Writers and Authors,IV,71,93600,119600,152500
+27-3091,Interpreters and Translators,I,138,42500,48000,55000
+27-3091,Interpreters and Translators,II,209,53200,62700,71000
+27-3091,Interpreters and Translators,III,80,66400,77700,98800
+27-3091,Interpreters and Translators,IV,64,90800,107100,133100
+27-3099,"Media and Communication Workers, All Other",I,65,75000,100000,132100
+27-3099,"Media and Communication Workers, All Other",II,70,82900,129400,160000
+27-3099,"Media and Communication Workers, All Other",III,87,85000,140000,185000
+27-3099,"Media and Communication Workers, All Other",IV,114,120000,171400,230800
+27-4012,Broadcast Technicians,II,32,87000,92100,107700
+27-4014,Sound Engineering Technicians,I,61,40500,63900,77700
+27-4014,Sound Engineering Technicians,II,68,71400,94700,110000
+27-4014,Sound Engineering Technicians,III,48,89400,112700,130000
+27-4014,Sound Engineering Technicians,IV,28,124900,146000,199900
+27-4021,Photographers,II,30,44600,60400,93600
+27-4032,Film and Video Editors,I,192,44500,51400,58400
+27-4032,Film and Video Editors,II,114,60500,70700,83200
+27-4032,Film and Video Editors,III,28,85100,101600,117100
+29-1011,Chiropractors,I,97,55000,63100,74400
+29-1011,Chiropractors,II,92,66500,76200,83300
+29-1011,Chiropractors,III,31,75000,85000,100000
+29-1011,Chiropractors,IV,31,89000,104000,150900
+29-1021,"Dentist, General",I,2668,105000,128400,156000
+29-1021,"Dentist, General",II,2943,141400,160000,180000
+29-1021,"Dentist, General",III,967,167200,181000,205900
+29-1021,"Dentist, General",IV,427,188000,217400,250000
+29-1022,Oral and Maxillofacial Surgeons,I,42,61200,69800,125800
+29-1024,Prosthodontists,I,34,110000,135500,165800
+29-1024,Prosthodontists,II,43,160000,188000,219000
+29-1029,"Dentists, All Other Specialists",I,123,108700,143400,200000
+29-1029,"Dentists, All Other Specialists",II,159,128900,156000,191300
+29-1029,"Dentists, All Other Specialists",III,88,155800,203600,224600
+29-1029,"Dentists, All Other Specialists",IV,69,208000,240000,312000
+29-1031,Dietitians and Nutritionists,I,295,50200,56100,64200
+29-1031,Dietitians and Nutritionists,II,234,58200,65000,75000
+29-1031,Dietitians and Nutritionists,III,68,68200,73900,87200
+29-1031,Dietitians and Nutritionists,IV,45,71400,84300,100000
+29-1041,Optometrists,I,195,93300,115000,145300
+29-1041,Optometrists,II,211,118800,130000,147500
+29-1041,Optometrists,III,81,125000,140000,151000
+29-1041,Optometrists,IV,65,150100,160000,174500
+29-1051,Pharmacists,I,805,98200,108200,124700
+29-1051,Pharmacists,II,1222,114400,124800,138200
+29-1051,Pharmacists,III,580,126600,135200,150400
+29-1051,Pharmacists,IV,192,141000,150000,165400
+29-1071,Anesthesiologist Assistants,I,189,94000,111000,185000
+29-1071,Anesthesiologist Assistants,II,232,108800,134000,190700
+29-1071,Anesthesiologist Assistants,III,175,150600,260000,340000
+29-1071,Anesthesiologist Assistants,IV,136,178000,299800,370300
+29-1081,Podiatrists,I,57,59200,70000,111900
+29-1081,Podiatrists,II,37,63800,125000,150000
+29-1122,Occupational Therapists,I,1467,67800,72000,75700
+29-1122,Occupational Therapists,II,603,82400,89000,100000
+29-1122,Occupational Therapists,III,116,94300,104000,114400
+29-1122,Occupational Therapists,IV,60,97000,116200,129000
+29-1123,Physical Therapists,I,6093,70100,74900,81100
+29-1123,Physical Therapists,II,4054,82000,87500,95100
+29-1123,Physical Therapists,III,1312,93600,99800,108200
+29-1123,Physical Therapists,IV,377,104500,118600,133100
+29-1124,Radiation Therapists,I,35,70800,110000,212300
+29-1124,Radiation Therapists,II,32,114400,145200,171000
+29-1124,Radiation Therapists,III,25,99900,147000,239100
+29-1126,Respiratory Therapists,I,27,48300,57000,65400
+29-1127,Speech-Language Pathologists,I,1477,67100,79100,94500
+29-1127,Speech-Language Pathologists,II,855,81100,91400,107500
+29-1127,Speech-Language Pathologists,III,172,95000,103100,114400
+29-1127,Speech-Language Pathologists,IV,81,103900,117700,129000
+29-1128,Exercise Physiologists,I,728,50000,53000,57000
+29-1128,Exercise Physiologists,II,162,53000,60000,64000
+29-1128,Exercise Physiologists,III,76,66100,72000,80000
+29-1128,Exercise Physiologists,IV,81,78000,83200,90000
+29-1129,"Therapists, All Other",I,87,42700,52000,62900
+29-1129,"Therapists, All Other",II,53,49900,55000,65000
+29-1131,Veterinarians,I,376,79000,91700,115000
+29-1131,Veterinarians,II,1097,110000,130000,156000
+29-1131,Veterinarians,III,265,120000,140000,160000
+29-1131,Veterinarians,IV,298,148900,180000,210000
+29-1141,Acute Care Nurses,I,1039,64900,72300,81100
+29-1141,Acute Care Nurses,II,1590,68900,75200,84900
+29-1141,Acute Care Nurses,III,590,69800,77900,86400
+29-1141,Acute Care Nurses,IV,185,89400,95000,110800
+29-1151,Nurse Anesthetists,II,30,191400,201400,329900
+29-1171,Nurse Practitioners,I,247,90000,106700,119300
+29-1171,Nurse Practitioners,II,218,107000,120000,150000
+29-1171,Nurse Practitioners,III,70,113500,133600,150400
+29-1171,Nurse Practitioners,IV,53,119800,145600,220000
+29-1181,Audiologists,I,54,72500,80100,85300
+29-1181,Audiologists,II,46,75600,82500,96700
+29-1211,Anesthesiologists,I,280,71900,186000,379000
+29-1211,Anesthesiologists,II,256,200000,337300,440000
+29-1211,Anesthesiologists,III,169,293200,360200,417200
+29-1211,Anesthesiologists,IV,178,330000,400000,463000
+29-1212,Cardiologists,I,194,83800,325000,500000
+29-1212,Cardiologists,II,533,346700,450000,560000
+29-1212,Cardiologists,III,224,318800,400000,496300
+29-1212,Cardiologists,IV,389,314700,445000,550000
+29-1214,Emergency Medicine Physicians,I,178,67900,225000,401900
+29-1214,Emergency Medicine Physicians,II,394,120500,274500,399700
+29-1214,Emergency Medicine Physicians,III,145,210000,273200,342300
+29-1214,Emergency Medicine Physicians,IV,178,280800,343300,416000
+29-1215,Family Medicine Physicians,I,672,135000,200000,236900
+29-1215,Family Medicine Physicians,II,982,190000,219900,242000
+29-1215,Family Medicine Physicians,III,245,216700,230000,254800
+29-1215,Family Medicine Physicians,IV,203,201500,235000,266300
+29-1216,General Internal Medicine Physicians,I,1205,63500,75200,220000
+29-1216,General Internal Medicine Physicians,II,1232,168200,215000,250000
+29-1216,General Internal Medicine Physicians,III,448,192900,220000,250000
+29-1216,General Internal Medicine Physicians,IV,315,198600,242900,276800
+29-1217,Neurologists,I,339,71700,200000,301000
+29-1217,Neurologists,II,634,208000,275000,350000
+29-1217,Neurologists,III,356,202600,251500,301700
+29-1217,Neurologists,IV,456,225000,300000,350000
+29-1218,Obstetricians and Gynecologists,I,120,71700,186700,300000
+29-1218,Obstetricians and Gynecologists,II,493,79700,89700,195800
+29-1218,Obstetricians and Gynecologists,III,144,90100,172500,275800
+29-1218,Obstetricians and Gynecologists,IV,74,240000,312000,374600
+29-1221,"Pediatricians, General",I,798,140100,195000,225000
+29-1221,"Pediatricians, General",II,1222,175500,207800,240000
+29-1221,"Pediatricians, General",III,589,196200,220000,249600
+29-1221,"Pediatricians, General",IV,468,210000,244700,277500
+29-1222,"Physicians, Pathologists",I,95,84100,180000,250000
+29-1222,"Physicians, Pathologists",II,230,170000,222100,300000
+29-1222,"Physicians, Pathologists",III,110,200300,240000,290000
+29-1222,"Physicians, Pathologists",IV,96,200000,273900,328600
+29-1223,Psychiatrists,I,279,190900,240000,277300
+29-1223,Psychiatrists,II,651,196300,235500,280000
+29-1223,Psychiatrists,III,281,210000,242100,280000
+29-1223,Psychiatrists,IV,342,228400,280000,325000
+29-1224,Radiologists,I,273,69700,95300,339900
+29-1224,Radiologists,II,242,164600,315000,410000
+29-1224,Radiologists,III,134,267000,343800,424800
+29-1224,Radiologists,IV,252,300000,390000,450100
+29-1229,Hospitalists,I,5888,72600,200000,259200
+29-1229,Hospitalists,II,9117,178800,235000,295000
+29-1229,Hospitalists,III,3558,200000,238000,280400
+29-1229,Hospitalists,IV,3672,220000,270000,337600
+29-1242,"Orthopedic Surgeons, Except Pediatric",I,58,72200,86000,396300
+29-1242,"Orthopedic Surgeons, Except Pediatric",II,69,119200,261600,461300
+29-1242,"Orthopedic Surgeons, Except Pediatric",III,32,268800,432500,550000
+29-1242,"Orthopedic Surgeons, Except Pediatric",IV,78,227400,350000,550000
+29-1243,Pediatric Surgeons,I,33,69100,77000,97400
+29-1243,Pediatric Surgeons,II,46,198200,228500,277800
+29-1243,Pediatric Surgeons,IV,54,244800,317500,404100
+29-1249,"Surgeons, All Other",I,252,71500,100000,328300
+29-1249,"Surgeons, All Other",II,437,168500,325000,431600
+29-1249,"Surgeons, All Other",III,170,220000,350000,450000
+29-1249,"Surgeons, All Other",IV,411,303000,400000,500600
+29-1291,Acupuncturists,I,158,50100,59500,70000
+29-1291,Acupuncturists,II,100,59100,68400,77600
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",I,42,65000,72400,81400
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",II,71,72200,85000,90000
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",III,55,120000,175000,232500
+29-1299,"Healthcare Diagnosing or Treating Practitioners, All Other",IV,74,131400,170800,264800
+29-2011,Cytogenetic Technologists,I,4915,55800,56600,60300
+29-2011,Cytogenetic Technologists,II,6071,52200,59100,68600
+29-2011,Cytogenetic Technologists,III,2554,58300,65600,74600
+29-2011,Cytogenetic Technologists,IV,1690,65600,73200,87300
+29-2012,Medical and Clinical Laboratory Technicians,I,65,52000,80000,189000
+29-2012,Medical and Clinical Laboratory Technicians,II,113,70000,225000,400000
+29-2012,Medical and Clinical Laboratory Technicians,III,63,101000,202600,306800
+29-2012,Medical and Clinical Laboratory Technicians,IV,45,150000,261400,354800
+29-2032,Diagnostic Medical Sonographers,II,31,75200,98300,125000
+29-2034,Radiologic Technologists and Technicians,II,26,60100,82500,109800
+29-2035,Magnetic Resonance Imaging Technologists,II,38,64500,75300,102900
+29-2043,Paramedics,II,55,52600,59400,69900
+29-2053,Psychiatric Technicians,I,31,37400,41600,45900
+29-2056,Veterinary Technologists and Technicians,I,28,35100,44300,52800
+29-2056,Veterinary Technologists and Technicians,II,45,37400,45900,52000
+29-2056,Veterinary Technologists and Technicians,III,33,38600,43700,47800
+29-2057,Ophthalmic Medical Technicians,I,64,62200,79500,228600
+29-2057,Ophthalmic Medical Technicians,II,65,125000,210000,320900
+29-2057,Ophthalmic Medical Technicians,IV,52,192300,256300,326300
+29-2091,Orthotists and Prosthetists,I,52,54900,57000,65700
+29-2091,Orthotists and Prosthetists,II,39,63300,75000,86300
+29-2099,"Health Technologists and Technicians, All Other",I,31,77100,150000,180000
+29-2099,"Health Technologists and Technicians, All Other",II,28,83200,135100,149800
+29-2099,"Health Technologists and Technicians, All Other",IV,71,97200,140600,183300
+29-9021,Health Information Technologists and Medical Registrars,I,254,56400,71800,81000
+29-9021,Health Information Technologists and Medical Registrars,II,156,80100,90100,105000
+29-9021,Health Information Technologists and Medical Registrars,III,62,86900,105800,133000
+29-9021,Health Information Technologists and Medical Registrars,IV,46,92800,120000,131000
+29-9091,Athletic Trainers,I,290,41300,47300,54800
+29-9091,Athletic Trainers,II,184,49200,60000,65800
+29-9091,Athletic Trainers,III,49,62100,70100,80000
+29-9091,Athletic Trainers,IV,54,70900,97700,112800
+29-9092,Genetic Counselors,I,82,67700,74700,85600
+29-9092,Genetic Counselors,II,82,80200,87800,93600
+29-9092,Genetic Counselors,III,32,89500,98000,106800
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",I,56,69300,75200,80700
+29-9099,"Healthcare Practitioners and Technical Workers, All Other",II,47,72200,88700,106300
+31-2022,Physical Therapist Aides,I,73,64200,67700,74000
+31-2022,Physical Therapist Aides,II,34,80200,84300,97800
+31-9091,Dental Assistants,I,58,83100,106600,147500
+31-9091,Dental Assistants,II,53,159900,208000,300000
+31-9091,Dental Assistants,III,41,148100,246300,312000
+31-9091,Dental Assistants,IV,57,225000,332800,390000
+31-9092,Medical Assistants,I,99,49700,80000,93800
+31-9092,Medical Assistants,II,106,65200,78000,116600
+31-9095,Pharmacy Aides,I,57,60400,85700,104000
+31-9095,Pharmacy Aides,II,38,52200,58300,99200
+31-9096,Veterinary Assistants and Laboratory Animal Caretakers,I,27,37100,52000,60300
+33-3021,Detectives and Criminal Investigators,I,142,65000,71400,83800
+33-3021,Detectives and Criminal Investigators,II,193,70000,85000,100000
+33-3021,Detectives and Criminal Investigators,III,92,88900,111200,130200
+33-3021,Detectives and Criminal Investigators,IV,32,102500,123500,161500
+33-9032,Security Guards,IV,52,191700,227800,270000
+35-1011,Chefs and Head Cooks,I,86,35100,42100,52000
+35-1011,Chefs and Head Cooks,II,148,52400,60000,65000
+35-1011,Chefs and Head Cooks,III,117,61000,70000,75200
+35-1011,Chefs and Head Cooks,IV,103,71300,82000,112500
+35-1012,First-Line Supervisors of Food Preparation and Serving Workers,II,28,52000,60000,63300
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",I,49,55000,61400,73100
+39-3093,"Locker Room, Coatroom, and Dressing Room Attendants",II,27,65800,76000,89800
+39-6012,Concierges,I,25,53200,57200,62100
+39-9041,Residential Advisors,I,114,42900,49000,62400
+39-9041,Residential Advisors,II,55,44000,55000,62800
+39-9041,Residential Advisors,IV,27,47800,60000,71800
+41-2031,Retail Salespersons,II,27,102500,150000,185000
+41-3011,Advertising Sales Agents,I,41,58300,75000,85000
+41-3011,Advertising Sales Agents,II,36,69800,85000,100000
+41-3011,Advertising Sales Agents,III,27,112600,115000,140200
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",I,266,72000,100000,147500
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",II,549,102600,140000,175000
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",III,327,120000,150000,200000
+41-3031,"Securities, Commodities, and Financial Services Sales Agents",IV,433,150000,194400,250000
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",I,409,54000,64000,80000
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",II,384,66000,85800,111900
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",III,190,93000,119500,152800
+41-3091,"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",IV,139,125000,147000,170000
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",I,25,60000,75000,95000
+41-4011,"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",II,29,86400,91500,120000
+41-9031,Sales Engineers,I,1620,70400,80000,97800
+41-9031,Sales Engineers,II,3505,90500,103400,125000
+41-9031,Sales Engineers,III,2318,115200,135000,158000
+41-9031,Sales Engineers,IV,3831,120000,140000,165200
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,I,130,55700,67400,84300
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,II,116,77100,89200,115100
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,III,97,89800,100000,129200
+43-1011,First-Line Supervisors of Office and Administrative Support Workers,IV,57,105000,139400,169200
+43-3061,Procurement Clerks,I,42,51800,59300,69400
+43-3061,Procurement Clerks,II,25,67000,80000,88800
+43-4051,Customer Service Representatives,I,78,54700,68600,80000
+43-4051,Customer Service Representatives,II,82,75000,83800,99600
+43-4051,Customer Service Representatives,III,57,94300,115000,126400
+43-4051,Customer Service Representatives,IV,39,113100,118000,134600
+43-5061,"Production, Planning, and Expediting Clerks",I,110,54000,65000,75000
+43-5061,"Production, Planning, and Expediting Clerks",II,96,66600,72100,86100
+43-6011,Executive Secretaries and Executive Administrative Assistants,I,62,43200,50300,59700
+43-6011,Executive Secretaries and Executive Administrative Assistants,II,48,47400,60700,75000
+43-6011,Executive Secretaries and Executive Administrative Assistants,IV,36,68000,95700,128300
+43-6014,"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",I,31,54100,60900,72100
+43-9041,Insurance Claims and Policy Processing Clerks,I,28,60300,73600,86700
+43-9041,Insurance Claims and Policy Processing Clerks,II,27,79100,98200,130000
+43-9111,Statistical Assistants,I,199,70200,79000,85000
+43-9111,Statistical Assistants,II,106,79100,92800,110500
+43-9111,Statistical Assistants,III,39,63000,93600,155000
+43-9111,Statistical Assistants,IV,35,80000,134700,156500
+45-1011,"First-Line Supervisors of Farming, Fishing, and Forestry Workers",I,31,42600,53000,68300
+45-2011,Agricultural Inspectors,I,243,29200,39500,58300
+45-2011,Agricultural Inspectors,II,596,47700,49300,53000
+45-2011,Agricultural Inspectors,III,52,76200,88000,100100
+47-2111,Electricians,I,42,65100,71700,85000
+47-4011,Construction and Building Inspectors,I,104,64500,70000,75900
+47-4011,Construction and Building Inspectors,II,65,75000,88400,98300
+47-4011,Construction and Building Inspectors,III,25,80600,88900,108100
+47-4021,Elevator and Escalator Installers and Repairers,II,83,107100,120000,126300
+47-4021,Elevator and Escalator Installers and Repairers,III,53,128700,135700,146100
+47-4061,Rail-Track Laying and Maintenance Equipment Operators,II,43,81900,88800,90000
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",I,26,57000,66300,77800
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",II,40,78200,94000,103900
+49-1011,"First-Line Supervisors of Mechanics, Installers, and Repairers",III,25,99900,112500,126800
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",I,55,49000,58600,67800
+49-2011,"Computer, Automated Teller, and Office Machine Repairers",II,41,68600,87000,104200
+49-2095,"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",II,25,86100,88900,105000
+49-3011,Aircraft Mechanics and Service Technicians,I,90,51300,54100,57200
+49-3011,Aircraft Mechanics and Service Technicians,II,139,54000,58200,63600
+49-3023,Automotive Service Technicians and Mechanics,II,40,84000,95500,105100
+49-3023,Automotive Service Technicians and Mechanics,III,41,116700,129800,166000
+49-3023,Automotive Service Technicians and Mechanics,IV,35,135000,140200,160200
+49-9071,"Maintenance and Repair Workers, General",I,114,64400,70000,79600
+49-9071,"Maintenance and Repair Workers, General",II,94,77600,89300,108400
+49-9071,"Maintenance and Repair Workers, General",III,31,77000,100000,122200
+49-9071,"Maintenance and Repair Workers, General",IV,31,111500,120000,140200
+51-2022,Electrical and Electronic Equipment Assemblers,II,36,93800,105000,125000
+51-2022,Electrical and Electronic Equipment Assemblers,III,27,110000,127000,142500
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",II,36,75000,90600,100000
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",III,31,79800,95000,125000
+51-9012,"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",IV,25,91000,135000,160800
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",I,147,38500,49000,55500
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",II,68,43200,52000,78000
+51-9061,"Inspectors, Testers, Sorters, Samplers, and Weighers",IV,31,65000,80000,114900
+51-9151,Photographic Process Workers and Processing Machine Operators,I,27,55000,61800,84800
+51-9151,Photographic Process Workers and Processing Machine Operators,II,29,68600,95000,100200
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",I,167,70400,96000,130000
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",II,171,83200,124000,167000
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",III,101,137700,208000,238700
+53-2011,"Airline Pilots, Copilots, and Flight Engineers",IV,35,130000,165000,200000
+53-2012,Commercial Pilots,II,26,90100,127800,151800
+53-2022,Airfield Operations Specialists,I,54,62000,66000,76100
+53-2022,Airfield Operations Specialists,II,48,74200,89300,97700
+53-4011,Locomotive Engineers,I,39,72000,73900,80800
+53-4011,Locomotive Engineers,II,54,82000,91900,102600
+53-6041,Traffic Technicians,II,35,92200,99200,110000
+55-1015,Command and Control Center Officers,I,43,60000,72000,83700
+55-1015,Command and Control Center Officers,II,75,83200,95000,120000
+55-1015,Command and Control Center Officers,IV,39,130000,141700,163300
+55-1019,"Military Officer Special and Tactical Operations Leaders, All Other",II,48,75200,97300,113100
+55-2013,First-Line Supervisors of All Other Tactical Operations Specialists,IV,46,119700,154600,191600
+55-3011,Air Crew Members,II,30,75100,115000,126100
+55-3015,Command and Control Center Specialists,I,274,56700,65000,72800
+55-3015,Command and Control Center Specialists,II,196,72500,87200,100000
+55-3015,Command and Control Center Specialists,III,65,100000,122000,135800
+55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",I,74,70000,78100,85000
+55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",II,87,79400,85200,102700
+55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",III,43,85000,100000,110600
+55-3019,"Military Enlisted Tactical Operations and Air/Weapons Specialists and Crew Members, All Other",IV,27,126000,165000,209000

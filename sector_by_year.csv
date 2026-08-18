@@ -1,0 +1,426 @@
+naics2,sector_name,fiscal_year,filings,wage_median
+11,"Agriculture, Forestry, Fishing & Hunting",2010,708,52100
+11,"Agriculture, Forestry, Fishing & Hunting",2011,649,48000
+11,"Agriculture, Forestry, Fishing & Hunting",2012,641,48100
+11,"Agriculture, Forestry, Fishing & Hunting",2013,552,50000
+11,"Agriculture, Forestry, Fishing & Hunting",2014,533,52000
+11,"Agriculture, Forestry, Fishing & Hunting",2015,612,48000
+11,"Agriculture, Forestry, Fishing & Hunting",2016,569,46300
+11,"Agriculture, Forestry, Fishing & Hunting",2017,524,52600
+11,"Agriculture, Forestry, Fishing & Hunting",2018,591,50000
+11,"Agriculture, Forestry, Fishing & Hunting",2019,411,65300
+11,"Agriculture, Forestry, Fishing & Hunting",2020,293,65100
+11,"Agriculture, Forestry, Fishing & Hunting",2021,484,77300
+11,"Agriculture, Forestry, Fishing & Hunting",2022,295,80000
+11,"Agriculture, Forestry, Fishing & Hunting",2023,390,80200
+11,"Agriculture, Forestry, Fishing & Hunting",2024,305,83300
+11,"Agriculture, Forestry, Fishing & Hunting",2025,407,88000
+11,"Agriculture, Forestry, Fishing & Hunting",2026,113,115800
+15,Sector 15,2010,36,60000
+15,Sector 15,2011,29,72800
+15,Sector 15,2015,29,82300
+19,Sector 19,2010,28,44800
+21,"Mining, Quarrying, Oil & Gas",2010,1744,91500
+21,"Mining, Quarrying, Oil & Gas",2011,1824,95500
+21,"Mining, Quarrying, Oil & Gas",2012,2209,100400
+21,"Mining, Quarrying, Oil & Gas",2013,2055,100000
+21,"Mining, Quarrying, Oil & Gas",2014,2282,100000
+21,"Mining, Quarrying, Oil & Gas",2015,2200,98100
+21,"Mining, Quarrying, Oil & Gas",2016,1774,98400
+21,"Mining, Quarrying, Oil & Gas",2017,1675,100000
+21,"Mining, Quarrying, Oil & Gas",2018,1615,104000
+21,"Mining, Quarrying, Oil & Gas",2019,1584,107500
+21,"Mining, Quarrying, Oil & Gas",2020,1301,111000
+21,"Mining, Quarrying, Oil & Gas",2021,1376,117400
+21,"Mining, Quarrying, Oil & Gas",2022,993,120000
+21,"Mining, Quarrying, Oil & Gas",2023,1087,120000
+21,"Mining, Quarrying, Oil & Gas",2024,1066,125000
+21,"Mining, Quarrying, Oil & Gas",2025,1158,130000
+21,"Mining, Quarrying, Oil & Gas",2026,359,135000
+22,Utilities,2010,1165,78500
+22,Utilities,2011,1125,79200
+22,Utilities,2012,1192,77600
+22,Utilities,2013,1080,81200
+22,Utilities,2014,1221,83000
+22,Utilities,2015,1199,84900
+22,Utilities,2016,1167,85800
+22,Utilities,2017,1315,90000
+22,Utilities,2018,1285,92300
+22,Utilities,2019,1459,94200
+22,Utilities,2020,1227,101000
+22,Utilities,2021,2095,106600
+22,Utilities,2022,1680,110300
+22,Utilities,2023,1855,120000
+22,Utilities,2024,1861,120000
+22,Utilities,2025,2169,122900
+22,Utilities,2026,715,133600
+23,Construction,2010,3058,63000
+23,Construction,2011,2691,60000
+23,Construction,2012,2698,62500
+23,Construction,2013,2249,65000
+23,Construction,2014,2421,65800
+23,Construction,2015,2964,65600
+23,Construction,2016,3160,66600
+23,Construction,2017,3391,67000
+23,Construction,2018,3965,71000
+23,Construction,2019,4419,73000
+23,Construction,2020,3555,76200
+23,Construction,2021,4882,80100
+23,Construction,2022,4129,85000
+23,Construction,2023,4722,88000
+23,Construction,2024,4416,88000
+23,Construction,2025,5789,90200
+23,Construction,2026,1700,100000
+31,Manufacturing (food/textile),2010,2879,68500
+31,Manufacturing (food/textile),2011,2611,63500
+31,Manufacturing (food/textile),2012,2653,65000
+31,Manufacturing (food/textile),2013,2211,70000
+31,Manufacturing (food/textile),2014,2508,72000
+31,Manufacturing (food/textile),2015,2651,73100
+31,Manufacturing (food/textile),2016,2698,77500
+31,Manufacturing (food/textile),2017,2775,80700
+31,Manufacturing (food/textile),2018,2981,90000
+31,Manufacturing (food/textile),2019,2922,92400
+31,Manufacturing (food/textile),2020,2533,102200
+31,Manufacturing (food/textile),2021,4330,115900
+31,Manufacturing (food/textile),2022,3029,120000
+31,Manufacturing (food/textile),2023,3027,125000
+31,Manufacturing (food/textile),2024,2549,123600
+31,Manufacturing (food/textile),2025,3051,127200
+31,Manufacturing (food/textile),2026,818,140700
+32,Manufacturing (paper/chemicals),2010,4986,75000
+32,Manufacturing (paper/chemicals),2011,5266,74500
+32,Manufacturing (paper/chemicals),2012,5421,74700
+32,Manufacturing (paper/chemicals),2013,5098,78100
+32,Manufacturing (paper/chemicals),2014,5815,80000
+32,Manufacturing (paper/chemicals),2015,6136,80000
+32,Manufacturing (paper/chemicals),2016,6406,81600
+32,Manufacturing (paper/chemicals),2017,7243,84300
+32,Manufacturing (paper/chemicals),2018,7664,90000
+32,Manufacturing (paper/chemicals),2019,8270,91000
+32,Manufacturing (paper/chemicals),2020,7489,100000
+32,Manufacturing (paper/chemicals),2021,12502,105000
+32,Manufacturing (paper/chemicals),2022,8500,110000
+32,Manufacturing (paper/chemicals),2023,8497,116300
+32,Manufacturing (paper/chemicals),2024,7756,115000
+32,Manufacturing (paper/chemicals),2025,9221,118800
+32,Manufacturing (paper/chemicals),2026,2757,132000
+33,Manufacturing (metal/machinery/electronics),2010,24379,79500
+33,Manufacturing (metal/machinery/electronics),2011,28553,80000
+33,Manufacturing (metal/machinery/electronics),2012,29695,82400
+33,Manufacturing (metal/machinery/electronics),2013,29093,85000
+33,Manufacturing (metal/machinery/electronics),2014,32346,86600
+33,Manufacturing (metal/machinery/electronics),2015,32605,88700
+33,Manufacturing (metal/machinery/electronics),2016,33183,90000
+33,Manufacturing (metal/machinery/electronics),2017,35036,92000
+33,Manufacturing (metal/machinery/electronics),2018,37966,96700
+33,Manufacturing (metal/machinery/electronics),2019,38898,99300
+33,Manufacturing (metal/machinery/electronics),2020,37942,107400
+33,Manufacturing (metal/machinery/electronics),2021,69187,115000
+33,Manufacturing (metal/machinery/electronics),2022,52902,118900
+33,Manufacturing (metal/machinery/electronics),2023,54392,124300
+33,Manufacturing (metal/machinery/electronics),2024,46170,126600
+33,Manufacturing (metal/machinery/electronics),2025,54231,134500
+33,Manufacturing (metal/machinery/electronics),2026,20827,147400
+34,Sector 34,2010,37,53200
+34,Sector 34,2012,27,61700
+-4,Sector -4,2024,73,72800
+-4,Sector -4,2025,84,71700
+42,Wholesale Trade,2010,7558,55500
+42,Wholesale Trade,2011,6511,54700
+42,Wholesale Trade,2012,6434,56800
+42,Wholesale Trade,2013,6584,65000
+42,Wholesale Trade,2014,7128,67400
+42,Wholesale Trade,2015,7692,68600
+42,Wholesale Trade,2016,8054,70900
+42,Wholesale Trade,2017,7652,70200
+42,Wholesale Trade,2018,7960,83200
+42,Wholesale Trade,2019,8069,90000
+42,Wholesale Trade,2020,6028,95000
+42,Wholesale Trade,2021,8904,105000
+42,Wholesale Trade,2022,6766,110000
+42,Wholesale Trade,2023,6670,111400
+42,Wholesale Trade,2024,6255,107700
+42,Wholesale Trade,2025,7627,108800
+42,Wholesale Trade,2026,2269,133000
+43,Sector 43,2010,29,60000
+43,Sector 43,2013,41,90000
+44,Retail Trade (motor/furniture),2010,5926,60000
+44,Retail Trade (motor/furniture),2011,4670,71800
+44,Retail Trade (motor/furniture),2012,4779,78600
+44,Retail Trade (motor/furniture),2013,4355,90000
+44,Retail Trade (motor/furniture),2014,4410,88000
+44,Retail Trade (motor/furniture),2015,4414,85700
+44,Retail Trade (motor/furniture),2016,4446,88900
+44,Retail Trade (motor/furniture),2017,4539,87400
+44,Retail Trade (motor/furniture),2018,4873,95000
+44,Retail Trade (motor/furniture),2019,5053,100000
+44,Retail Trade (motor/furniture),2020,4814,110000
+44,Retail Trade (motor/furniture),2021,7833,115700
+44,Retail Trade (motor/furniture),2022,6253,124800
+44,Retail Trade (motor/furniture),2023,7170,125000
+44,Retail Trade (motor/furniture),2024,4746,130000
+44,Retail Trade (motor/furniture),2025,5007,133500
+44,Retail Trade (motor/furniture),2026,1822,138000
+45,Retail Trade (general),2010,3089,91600
+45,Retail Trade (general),2011,3674,91600
+45,Retail Trade (general),2012,4146,97700
+45,Retail Trade (general),2013,4743,100000
+45,Retail Trade (general),2014,6059,105000
+45,Retail Trade (general),2015,7463,108400
+45,Retail Trade (general),2016,8728,112000
+45,Retail Trade (general),2017,11457,115000
+45,Retail Trade (general),2018,13585,120000
+45,Retail Trade (general),2019,17470,130000
+45,Retail Trade (general),2020,22645,135000
+45,Retail Trade (general),2021,33213,133600
+45,Retail Trade (general),2022,27820,140000
+45,Retail Trade (general),2023,27462,145000
+45,Retail Trade (general),2024,24688,150000
+45,Retail Trade (general),2025,26082,151500
+45,Retail Trade (general),2026,8229,153700
+48,Transportation,2010,1953,65000
+48,Transportation,2011,1889,61700
+48,Transportation,2012,1926,60000
+48,Transportation,2013,1695,67600
+48,Transportation,2014,1751,63900
+48,Transportation,2015,1896,65000
+48,Transportation,2016,1986,65700
+48,Transportation,2017,2181,73000
+48,Transportation,2018,2464,80000
+48,Transportation,2019,2393,85500
+48,Transportation,2020,2048,94300
+48,Transportation,2021,3277,94900
+48,Transportation,2022,2963,107200
+48,Transportation,2023,3261,113800
+48,Transportation,2024,2739,113000
+48,Transportation,2025,3350,116100
+48,Transportation,2026,1207,126000
+49,Warehousing & Postal,2010,168,65000
+49,Warehousing & Postal,2011,153,59000
+49,Warehousing & Postal,2012,145,60000
+49,Warehousing & Postal,2013,119,58700
+49,Warehousing & Postal,2014,141,65000
+49,Warehousing & Postal,2015,227,65000
+49,Warehousing & Postal,2016,301,61700
+49,Warehousing & Postal,2017,475,62800
+49,Warehousing & Postal,2018,706,71900
+49,Warehousing & Postal,2019,711,75200
+49,Warehousing & Postal,2020,656,77200
+49,Warehousing & Postal,2021,1236,83600
+49,Warehousing & Postal,2022,944,89400
+49,Warehousing & Postal,2023,766,99300
+49,Warehousing & Postal,2024,810,99800
+49,Warehousing & Postal,2025,1682,104000
+49,Warehousing & Postal,2026,374,123900
+51,Information,2010,18990,84000
+51,Information,2011,20340,84900
+51,Information,2012,21781,91000
+51,Information,2013,21714,95000
+51,Information,2014,24089,96800
+51,Information,2015,27468,100000
+51,Information,2016,30224,105000
+51,Information,2017,32458,110000
+51,Information,2018,37065,115400
+51,Information,2019,39766,120000
+51,Information,2020,40038,130000
+51,Information,2021,70034,135000
+51,Information,2022,60549,141900
+51,Information,2023,54770,149300
+51,Information,2024,49619,155800
+51,Information,2025,55080,160500
+51,Information,2026,20462,170000
+52,Finance & Insurance,2010,18669,88000
+52,Finance & Insurance,2011,18090,87000
+52,Finance & Insurance,2012,18557,88000
+52,Finance & Insurance,2013,19216,90000
+52,Finance & Insurance,2014,22794,90300
+52,Finance & Insurance,2015,27044,93100
+52,Finance & Insurance,2016,28760,95000
+52,Finance & Insurance,2017,32036,99000
+52,Finance & Insurance,2018,38729,104900
+52,Finance & Insurance,2019,39814,106600
+52,Finance & Insurance,2020,39659,111900
+52,Finance & Insurance,2021,69522,118200
+52,Finance & Insurance,2022,51485,125000
+52,Finance & Insurance,2023,51662,130900
+52,Finance & Insurance,2024,42693,135200
+52,Finance & Insurance,2025,50637,140500
+52,Finance & Insurance,2026,18950,148700
+53,"Real Estate, Rental & Leasing",2010,1804,60000
+53,"Real Estate, Rental & Leasing",2011,1463,60000
+53,"Real Estate, Rental & Leasing",2012,1502,62600
+53,"Real Estate, Rental & Leasing",2013,1290,68100
+53,"Real Estate, Rental & Leasing",2014,1580,68000
+53,"Real Estate, Rental & Leasing",2015,1722,68400
+53,"Real Estate, Rental & Leasing",2016,1874,70000
+53,"Real Estate, Rental & Leasing",2017,2141,73000
+53,"Real Estate, Rental & Leasing",2018,2519,82900
+53,"Real Estate, Rental & Leasing",2019,2767,90000
+53,"Real Estate, Rental & Leasing",2020,2005,94800
+53,"Real Estate, Rental & Leasing",2021,3156,114000
+53,"Real Estate, Rental & Leasing",2022,2421,115000
+53,"Real Estate, Rental & Leasing",2023,2348,115000
+53,"Real Estate, Rental & Leasing",2024,2204,110900
+53,"Real Estate, Rental & Leasing",2025,2564,115000
+53,"Real Estate, Rental & Leasing",2026,709,130000
+54,"Professional, Scientific & Technical Services",2010,162393,64900
+54,"Professional, Scientific & Technical Services",2011,184930,65000
+54,"Professional, Scientific & Technical Services",2012,237548,66700
+54,"Professional, Scientific & Technical Services",2013,270996,68600
+54,"Professional, Scientific & Technical Services",2014,334578,70000
+54,"Professional, Scientific & Technical Services",2015,420866,70000
+54,"Professional, Scientific & Technical Services",2016,442248,71700
+54,"Professional, Scientific & Technical Services",2017,408878,75000
+54,"Professional, Scientific & Technical Services",2018,415563,85000
+54,"Professional, Scientific & Technical Services",2019,418841,89000
+54,"Professional, Scientific & Technical Services",2020,341992,93000
+54,"Professional, Scientific & Technical Services",2021,433810,97400
+54,"Professional, Scientific & Technical Services",2022,318868,99000
+54,"Professional, Scientific & Technical Services",2023,324927,102200
+54,"Professional, Scientific & Technical Services",2024,279362,103200
+54,"Professional, Scientific & Technical Services",2025,273304,109100
+54,"Professional, Scientific & Technical Services",2026,93078,118500
+55,Management of Companies,2010,1427,86600
+55,Management of Companies,2011,1356,85700
+55,Management of Companies,2012,1562,90000
+55,Management of Companies,2013,1735,91900
+55,Management of Companies,2014,2119,93000
+55,Management of Companies,2015,2521,95000
+55,Management of Companies,2016,2725,99400
+55,Management of Companies,2017,3210,102500
+55,Management of Companies,2018,3430,107600
+55,Management of Companies,2019,3203,111000
+55,Management of Companies,2020,3479,115400
+55,Management of Companies,2021,5975,121100
+55,Management of Companies,2022,5388,130900
+55,Management of Companies,2023,5864,140000
+55,Management of Companies,2024,4976,140000
+55,Management of Companies,2025,5297,148500
+55,Management of Companies,2026,2548,152000
+56,Administrative & Support Services,2010,5457,63000
+56,Administrative & Support Services,2011,5449,62900
+56,Administrative & Support Services,2012,5846,64500
+56,Administrative & Support Services,2013,5311,66000
+56,Administrative & Support Services,2014,5741,67600
+56,Administrative & Support Services,2015,6709,70000
+56,Administrative & Support Services,2016,6966,70700
+56,Administrative & Support Services,2017,7272,75000
+56,Administrative & Support Services,2018,8341,78600
+56,Administrative & Support Services,2019,6795,90000
+56,Administrative & Support Services,2020,5807,96000
+56,Administrative & Support Services,2021,8722,98600
+56,Administrative & Support Services,2022,6473,98900
+56,Administrative & Support Services,2023,6758,100500
+56,Administrative & Support Services,2024,7284,100000
+56,Administrative & Support Services,2025,8882,94900
+56,Administrative & Support Services,2026,2669,114000
+57,Sector 57,2010,50,51800
+61,Educational Services,2010,39175,47000
+61,Educational Services,2011,34146,49100
+61,Educational Services,2012,35379,50000
+61,Educational Services,2013,34165,51000
+61,Educational Services,2014,33842,52300
+61,Educational Services,2015,34126,54200
+61,Educational Services,2016,34254,55700
+61,Educational Services,2017,32741,58500
+61,Educational Services,2018,34175,61500
+61,Educational Services,2019,34638,63700
+61,Educational Services,2020,29870,65000
+61,Educational Services,2021,48175,65700
+61,Educational Services,2022,36695,67500
+61,Educational Services,2023,46343,69700
+61,Educational Services,2024,41453,71100
+61,Educational Services,2025,45692,75000
+61,Educational Services,2026,18477,77300
+62,Health Care & Social Assistance,2010,26430,62900
+62,Health Care & Social Assistance,2011,23800,65000
+62,Health Care & Social Assistance,2012,23070,66600
+62,Health Care & Social Assistance,2013,21135,72800
+62,Health Care & Social Assistance,2014,21240,78000
+62,Health Care & Social Assistance,2015,21154,80200
+62,Health Care & Social Assistance,2016,21615,84800
+62,Health Care & Social Assistance,2017,21197,89800
+62,Health Care & Social Assistance,2018,22736,95000
+62,Health Care & Social Assistance,2019,20895,98200
+62,Health Care & Social Assistance,2020,19124,106000
+62,Health Care & Social Assistance,2021,30749,108200
+62,Health Care & Social Assistance,2022,22415,101800
+62,Health Care & Social Assistance,2023,26181,100000
+62,Health Care & Social Assistance,2024,23804,101600
+62,Health Care & Social Assistance,2025,27620,100000
+62,Health Care & Social Assistance,2026,10155,110000
+63,Sector 63,2010,29,72100
+71,"Arts, Entertainment & Recreation",2010,1923,50000
+71,"Arts, Entertainment & Recreation",2011,2187,63000
+71,"Arts, Entertainment & Recreation",2012,1658,54200
+71,"Arts, Entertainment & Recreation",2013,1279,60000
+71,"Arts, Entertainment & Recreation",2014,1340,56200
+71,"Arts, Entertainment & Recreation",2015,1356,56500
+71,"Arts, Entertainment & Recreation",2016,1198,57000
+71,"Arts, Entertainment & Recreation",2017,1232,60000
+71,"Arts, Entertainment & Recreation",2018,1222,70100
+71,"Arts, Entertainment & Recreation",2019,1192,68200
+71,"Arts, Entertainment & Recreation",2020,957,84000
+71,"Arts, Entertainment & Recreation",2021,1380,96000
+71,"Arts, Entertainment & Recreation",2022,1087,98000
+71,"Arts, Entertainment & Recreation",2023,1143,99200
+71,"Arts, Entertainment & Recreation",2024,1121,90000
+71,"Arts, Entertainment & Recreation",2025,1350,90500
+71,"Arts, Entertainment & Recreation",2026,398,113500
+72,Accommodation & Food Services,2010,3841,48100
+72,Accommodation & Food Services,2011,3129,49000
+72,Accommodation & Food Services,2012,2748,51100
+72,Accommodation & Food Services,2013,2059,52900
+72,Accommodation & Food Services,2014,1908,55000
+72,Accommodation & Food Services,2015,2211,55700
+72,Accommodation & Food Services,2016,2092,60000
+72,Accommodation & Food Services,2017,2107,61000
+72,Accommodation & Food Services,2018,1800,73600
+72,Accommodation & Food Services,2019,1879,80000
+72,Accommodation & Food Services,2020,1422,86000
+72,Accommodation & Food Services,2021,1854,95200
+72,Accommodation & Food Services,2022,1559,95000
+72,Accommodation & Food Services,2023,1817,98600
+72,Accommodation & Food Services,2024,1701,89100
+72,Accommodation & Food Services,2025,2044,90000
+72,Accommodation & Food Services,2026,531,120000
+73,Sector 73,2011,25,60000
+74,Sector 74,2010,25,67700
+74,Sector 74,2015,33,70500
+77,Sector 77,2011,49,104000
+81,Other Services,2010,3004,51400
+81,Other Services,2011,2722,52000
+81,Other Services,2012,2583,55400
+81,Other Services,2013,2147,59000
+81,Other Services,2014,2314,60000
+81,Other Services,2015,2285,60000
+81,Other Services,2016,2313,64700
+81,Other Services,2017,2121,65500
+81,Other Services,2018,2077,75000
+81,Other Services,2019,2092,77000
+81,Other Services,2020,1589,81600
+81,Other Services,2021,2435,88400
+81,Other Services,2022,1997,88500
+81,Other Services,2023,2398,89000
+81,Other Services,2024,2340,88000
+81,Other Services,2025,3003,85200
+81,Other Services,2026,820,93500
+82,Sector 82,2015,28,53000
+92,Public Administration,2010,1210,59600
+92,Public Administration,2011,1106,60000
+92,Public Administration,2012,1106,59200
+92,Public Administration,2013,897,63900
+92,Public Administration,2014,950,66400
+92,Public Administration,2015,1007,66700
+92,Public Administration,2016,1073,65100
+92,Public Administration,2017,962,70200
+92,Public Administration,2018,1024,80000
+92,Public Administration,2019,1063,80000
+92,Public Administration,2020,858,86000
+92,Public Administration,2021,1174,96500
+92,Public Administration,2022,872,90300
+92,Public Administration,2023,1086,95900
+92,Public Administration,2024,1030,91200
+92,Public Administration,2025,1209,92600
+92,Public Administration,2026,385,100000

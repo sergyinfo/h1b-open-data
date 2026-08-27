@@ -5,7 +5,11 @@ the wage-and-worksite filing every employer must submit to the Department of Lab
 before sponsoring an H-1B, H-1B1, or E-3 worker. Covers **126,466 employers**
 and **782 occupations** across fiscal years 2010–2026.
 
-The full interactive data lives at https://h1b.report.
+> **This is a mirror.** The canonical home of this dataset — always the newest
+> release, with the data dictionary and license — is
+> **<https://h1b.report/open-data>**. Mirrors are refreshed at least one
+> quarterly release behind the canonical page. The same data is also served
+> interactively (charts, rankings, per-employer analytics) at https://h1b.report.
 
 ## Source
 

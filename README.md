@@ -10,6 +10,9 @@ and **782 occupations** across fiscal years 2010–2026.
 > **<https://h1b.report/open-data>**. Mirrors are refreshed at least one
 > quarterly release behind the canonical page. The same data is also served
 > interactively (charts, rankings, per-employer analytics) at https://h1b.report.
+> It also has what this dataset leaves out: USCIS petition approval rates by
+> employer (<https://h1b.report/h1b-approval-rates>), sponsor health scores, and
+> free tools (Salary Calculator, Wage-Level Checker, H-1B Lottery Odds).
 
 ## Source
 
